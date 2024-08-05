@@ -20,10 +20,10 @@
 
   <dt><h4>1.5 “<em>Incompatible With Secondary Licenses</em>”</h4></dt>
   <dd>
-    means<br><br>
+    <p>means</p>
     <ol type="a">
-      <li>that the initial Contributor has attached the notice described in <a href="#exhibit-b--incompatible-with-secondary-licenses-notice">Exhibit B</a> to the Covered Software; or</li>
-      <li>that the Covered Software was made available under the terms of version 1.1 or earlier of the License, but <em>not</em> also under the terms of a Secondary License.</li>
+      <li><p>that the initial Contributor has attached the notice described in <a href="#exhibit-b--incompatible-with-secondary-licenses-notice">Exhibit B</a> to the Covered Software; or</p></li>
+      <li><p>that the Covered Software was made available under the terms of version 1.1 or earlier of the License, but <em>not</em> also under the terms of a Secondary License.</p></li>
     </ol>
   </dd>
 
@@ -41,10 +41,10 @@
 
   <dt><h4>1.10 “<em>Modifications</em>”</h4></dt>
   <dd>
-    means any of the following:<br><br>
+    <p>means any of the following:</p>
     <ol type="a">
-      <li>any file in Source Code Form that results from an addition to, deletion from, or modification of the contents of Covered Software; or</li>
-      <li>any new file in Source Code Form that contains any Covered Software.</li>
+      <li><p>any file in Source Code Form that results from an addition to, deletion from, or modification of the contents of Covered Software; or</p></li>
+      <li><p>any new file in Source Code Form that contains any Covered Software.</p></li>
     </ol>
   </dd>
 
@@ -59,8 +59,10 @@
 
   <dt><h4>1.14 “<em>You</em>” (or “<em>Your</em>”)</h4></dt>
   <dd>
-    means an individual or a legal entity exercising rights under this License.
-    For legal entities, “<em>You</em>” includes any entity that controls, is controlled by, or is under common control with You.<br><br>
+    <p>
+      means an individual or a legal entity exercising rights under this License.
+      For legal entities, “<em>You</em>” includes any entity that controls, is controlled by, or is under common control with You.
+    </p>
 
 > [!NOTE]
 > For purposes of this definition, “<em>control</em>” means
@@ -80,8 +82,8 @@
 Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license:
 
 <ol type="a">
-  <li>under intellectual property rights (other than patent or trademark) Licensable by such Contributor to use, reproduce, make available, modify, display, perform, distribute, and otherwise exploit its Contributions, either on an unmodified basis, with Modifications, or as part of a Larger Work; and</li>
-  <li>under Patent Claims of such Contributor to make, use, sell, offer for sale, have made, import, and otherwise transfer either its Contributions or its Contributor Version.</li>
+  <li><p>under intellectual property rights (other than patent or trademark) Licensable by such Contributor to use, reproduce, make available, modify, display, perform, distribute, and otherwise exploit its Contributions, either on an unmodified basis, with Modifications, or as part of a Larger Work; and</p></li>
+  <li><p>under Patent Claims of such Contributor to make, use, sell, offer for sale, have made, import, and otherwise transfer either its Contributions or its Contributor Version.</p></li>
 </ol>
 
 #### 2.2 Effective Date
@@ -95,17 +97,17 @@ No additional rights or licenses will be implied from the distribution or licens
 Notwithstanding [Section 2.1(b)](#21-grants) above, no patent license is granted by a Contributor:
 
 <ol type="a">
-  <li>for any code that a Contributor has removed from Covered Software; or</li>
+  <li><p>for any code that a Contributor has removed from Covered Software; or</p></li>
   <li>
-    for infringements caused by:<br><br>
+    <p>for infringements caused by:</p>
     
   <ol type="i">
     <li>Your and any other third party's modifications of Covered Software, or</li>
     <li>the combination of its Contributions with other software (except as part of its Contributor Version); or</li>
-  </ol><br>
+  </ol>
   
   </li>
-  <li>under Patent Claims infringed by Covered Software in the absence of its Contributions.</li>
+  <li><p>under Patent Claims infringed by Covered Software in the absence of its Contributions.</p></li>
 </ol>
 
 > [!IMPORTANT]
@@ -142,8 +144,8 @@ You may _not_ attempt to alter or restrict the recipients' rights in the Source 
 If You distribute Covered Software in Executable Form then:
 
 <ol type="a">
-  <li>such Covered Software must also be made available in Source Code Form, as described in <a href="#31-distribution-of-source-form">Section 3.1</a>, and You must inform recipients of the Executable Form how they can obtain a copy of such Source Code Form by reasonable means in a timely manner, at a charge no more than the cost of distribution to the recipient; and</li>
-  <li>You may distribute such Executable Form under the terms of this License, or sublicense it under different terms, provided that the license for the Executable Form does not attempt to limit or alter the recipients' rights in the Source Code Form under this License.</li>
+  <li><p>such Covered Software must also be made available in Source Code Form, as described in <a href="#31-distribution-of-source-form">Section 3.1</a>, and You must inform recipients of the Executable Form how they can obtain a copy of such Source Code Form by reasonable means in a timely manner, at a charge no more than the cost of distribution to the recipient; and</p></li>
+  <li><p>You may distribute such Executable Form under the terms of this License, or sublicense it under different terms, provided that the license for the Executable Form does not attempt to limit or alter the recipients' rights in the Source Code Form under this License.</p></li>
 </ol>
 
 #### 3.3 Distribution of a Larger Work
@@ -172,11 +174,13 @@ You may include additional disclaimers of warranty and limitations of liability 
 If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Covered Software due to statute, judicial order, or regulation then You must:
 
 <ol type="a">
-  <li>comply with the terms of this License to the maximum extent possible; and</li>
+  <li><p>comply with the terms of this License to the maximum extent possible; and</p></li>
   <li>
-    describe the limitations and the code they affect.
-    Such description must be placed in a text file included with all distributions of the Covered Software under this License.
-    Except to the extent prohibited by statute or regulation, such description must be sufficiently detailed for a recipient of ordinary skill to be able to understand it.
+    <p>
+      describe the limitations and the code they affect.
+      Such description must be placed in a text file included with all distributions of the Covered Software under this License.
+      Except to the extent prohibited by statute or regulation, such description must be sufficiently detailed for a recipient of ordinary skill to be able to understand it.
+    </p>
   </li>
 </ol>
 
@@ -190,8 +194,8 @@ If it is impossible for You to comply with any of the terms of this License with
 However, if You become compliant, then the rights granted under this License from a particular Contributor are reinstated
 
 <ol type="a">
-  <li>provisionally, unless and until such Contributor explicitly and finally terminates Your grants, and</li>
-  <li>on an ongoing basis, if such Contributor fails to notify You of the non-compliance by some reasonable means prior to 60 days after You have come back into compliance.</li>
+  <li><p>provisionally, unless and until such Contributor explicitly and finally terminates Your grants, and</p></li>
+  <li><p>on an ongoing basis, if such Contributor fails to notify You of the non-compliance by some reasonable means prior to 60 days after You have come back into compliance.</p></li>
 </ol>
 
 Moreover, Your grants from a particular Contributor are reinstated on an ongoing basis if

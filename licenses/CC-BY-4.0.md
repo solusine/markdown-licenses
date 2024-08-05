@@ -51,8 +51,8 @@ To the extent this Public License may be interpreted as a contract, You are gran
   <li>
     <dt><h4>Adapted Material</h4></dt>
     <dd>
-      means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor.<br><br>
-      For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+      <p>means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor.</p>
+      <p>For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.</p>
     </dd>
   </li>
   <li>
@@ -62,8 +62,8 @@ To the extent this Public License may be interpreted as a contract, You are gran
   <li>
     <dt><h4>Copyright and Similar Rights</h4></dt>
     <dd>
-      means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized.<br><br>
-      For purposes of this Public License, the rights specified in <a href="#other-rights">Section 2(b)(1)-(2)</a> are <em>not</em> Copyright and Similar Rights.
+      <p>means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized.</p>
+      <p>For purposes of this Public License, the rights specified in <a href="#other-rights">Section 2(b)(1)-(2)</a> are <em>not</em> Copyright and Similar Rights.</p>
     </dd>
   </li>
   <li>
@@ -108,7 +108,7 @@ To the extent this Public License may be interpreted as a contract, You are gran
     <h4>License Grant</h4>
     <ol type="1">
       <li>
-        Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:<br><br>
+        <p>Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:</p>
         <ol type="a">
             <li>reproduce and Share the Licensed Material, in whole or in part; and</li>
             <li>produce, reproduce, and Share Adapted Material.</li>
@@ -124,9 +124,11 @@ To the extent this Public License may be interpreted as a contract, You are gran
       </li>
       <li>
         <h4>Media and Formats; technical modifications allowed.</h4>
-        The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so.
-        The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures.<br><br>
-        For purposes of this Public License, simply making modifications authorized by this <a href="#media-and-formats-technical-modifications-allowed">Section 2(a)(4)</a> never produces Adapted Material.
+        <p>
+          The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so.
+          The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures.
+        </p>
+        <p>For purposes of this Public License, simply making modifications authorized by this <a href="#media-and-formats-technical-modifications-allowed">Section 2(a)(4)</a> never produces Adapted Material.</p>
       </li>
       <li>
         <h4>Downstream Recipients</h4>
@@ -151,13 +153,17 @@ To the extent this Public License may be interpreted as a contract, You are gran
     <h4>Other Rights</h4>
     <ol type="1">
        <li>
-         Moral rights, such as the right of integrity, are <em>not</em> licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights;
-         however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+         <p>
+           Moral rights, such as the right of integrity, are <em>not</em> licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights;
+           however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+         </p>
        </li>
-       <li>Patent and trademark rights are <em>not</em> licensed under this Public License.</li>
+       <li><p>Patent and trademark rights are <em>not</em> licensed under this Public License.</p></li>
        <li>
-         To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme.
-         In all other cases the Licensor expressly reserves any right to collect such royalties.
+         <p>
+           To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme.
+           In all other cases the Licensor expressly reserves any right to collect such royalties.
+         </p>
        </li>
     </ol>
   </li>
@@ -173,28 +179,30 @@ following conditions.
     <h4>Attribution</h4>
     <ol type="1">
       <li>
-        If You Share the Licensed Material (including in modified form), You must:<br><br>
+        <p>If You Share the Licensed Material (including in modified form), You must:</p>
         <ol>
           <li>
-            retain the following if it is supplied by the Licensor with the Licensed Material:<br><br>
+            <p>retain the following if it is supplied by the Licensor with the Licensed Material:</p>
             <ol>
               <li>identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);</li>
               <li>a copyright notice;</li>
               <li>a notice that refers to this Public License;</li>
               <li>a notice that refers to the disclaimer of warranties;</li>
               <li>a URI or hyperlink to the Licensed Material to the extent reasonably practicable;</li>
-            </ol><br>
+            </ol>
           </li>
-          <li>indicate if You modified the Licensed Material and retain an indication of any previous modifications; and</li>
-          <li>indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.</li>
-        </ol><br>
+          <li><p>indicate if You modified the Licensed Material and retain an indication of any previous modifications; and</p></li>
+          <li><p>indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.</p></li>
+        </ol>
       </li>
       <li>
-        You may satisfy the conditions in <a href="#attribution">Section 3(a)(1)</a> in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material.
-        For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+        <p>
+          You may satisfy the conditions in <a href="#attribution">Section 3(a)(1)</a> in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material.
+          For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+        </p>
       </li>
-      <li>If requested by the Licensor, You must remove any of the information required by <a href="#attribution">Section 3(a)(1)(A)</a> to the extent reasonably practicable.</li>
-      <li>If You Share Adapted Material You produce, the Adapter’s License You apply must <em>not</em> prevent recipients of the Adapted Material from complying with this Public License.</li>
+      <li><p>If requested by the Licensor, You must remove any of the information required by <a href="#attribution">Section 3(a)(1)(A)</a> to the extent reasonably practicable.</p></li>
+      <li><p>If You Share Adapted Material You produce, the Adapter’s License You apply must <em>not</em> prevent recipients of the Adapted Material from complying with this Public License.</p></li>
     </ol>
   </li>
 </ol>
@@ -204,9 +212,9 @@ following conditions.
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
 <ol type="a">
-  <li>for the avoidance of doubt, <a href="#license-grant">Section 2(a)(1)</a> grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;</li>
-  <li>if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and</li>
-  <li>You must comply with the conditions in <a href="#attribution">Section 3(a)</a> if You Share all or a substantial portion of the contents of the database.</li>
+  <li><p>for the avoidance of doubt, <a href="#license-grant">Section 2(a)(1)</a> grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;</p></li>
+  <li><p>if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and</p></li>
+  <li><p>You must comply with the conditions in <a href="#attribution">Section 3(a)</a> if You Share all or a substantial portion of the contents of the database.</p></li>
 </ol>
 
 For the avoidance of doubt, this [Section 4](#section-4--sui-generis-database-rights) supplements and does _not_ replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
@@ -216,16 +224,16 @@ For the avoidance of doubt, this [Section 4](#section-4--sui-generis-database-ri
 > [!IMPORTANT]
 > <ol type="a">
 >   <li>
->     <strong>UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE.</strong><br><br>
->     <strong>WHERE DISCLAIMERS OF WARRANTIES ARE <em>NOT</em> ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.</strong>
+>     <p><strong>UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE.</strong></p>
+>     <p><strong>WHERE DISCLAIMERS OF WARRANTIES ARE <em>NOT</em> ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.</strong></p>
 >   </li>
 > </ol>
 
 > [!CAUTION]
 > <ol type="a" start="2">
 >   <li>
->     <strong>TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES, COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR DAMAGES.</strong><br><br>
->     <strong>WHERE A LIMITATION OF LIABILITY IS <em>NOT</em> ALLOWED IN FULL OR IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.</strong>
+>     <p><strong>TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES, COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR DAMAGES.</strong></p>
+>     <p><strong>WHERE A LIMITATION OF LIABILITY IS <em>NOT</em> ALLOWED IN FULL OR IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.</strong></p>
 >   </li>
 > </ol>
 
@@ -245,16 +253,18 @@ For the avoidance of doubt, this [Section 4](#section-4--sui-generis-database-ri
 
 <ol type="a" start="2">
   <li>
-    Where Your right to use the Licensed Material has terminated under <a href="#section-6--term-and-termination">Section 6(a)</a>, it reinstates:<br><br>
+    <p>Where Your right to use the Licensed Material has terminated under <a href="#section-6--term-and-termination">Section 6(a)</a>, it reinstates:</p>
     <ol type="1">
       <li>automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or</li>
       <li>upon express reinstatement by the Licensor.</li>
-    </ol><br>
-    For the avoidance of doubt, this <a href="#section-6--term-and-termination">Section 6(b)</a> does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+    </ol>
+    <p>For the avoidance of doubt, this <a href="#section-6--term-and-termination">Section 6(b)</a> does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.</p>
   </li>
   <li>
-    For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time;
-    however, doing so will <em>not</em> terminate this Public License.
+    <p>
+      For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time;
+      however, doing so will <em>not</em> terminate this Public License.
+    </p>
   </li>
 </ol>
 
@@ -266,20 +276,22 @@ For the avoidance of doubt, this [Section 4](#section-4--sui-generis-database-ri
 ### Section 7 — Other Terms and Conditions
 
 <ol type="a">
-  <li>The Licensor shall <em>not</em> be bound by any additional or different terms or conditions communicated by You unless expressly agreed.</li>
-  <li>Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.</li>
+  <li><p>The Licensor shall <em>not</em> be bound by any additional or different terms or conditions communicated by You unless expressly agreed.</p></li>
+  <li><p>Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.</p></li>
 </ol>
 
 ### Section 8 — Interpretation
 
 <ol type="a">
-  <li>For the avoidance of doubt, this Public License does <em>not</em>, and shall <em>not</em> be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.</li>
+  <li><p>For the avoidance of doubt, this Public License does <em>not</em>, and shall <em>not</em> be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.</p></li>
   <li>
-    To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable.
-    If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+    <p>
+      To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable.
+      If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+    </p>
   </li>
-  <li>No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.</li>
-  <li>Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.</li>
+  <li><p>No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.</p></li>
+  <li><p>Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.</p></li>
 </ol>
 
 ---

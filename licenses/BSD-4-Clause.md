@@ -10,13 +10,13 @@
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
 <ol>
-  <li>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
-  <li>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.</li>
+  <li><p>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.</p></li>
+  <li><p>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.</p></li>
   <li>
-    All advertising materials mentioning features or use of this software must display the following acknowledgement:<br><br>
-    <pre>This product includes software developed by [project].</pre>
+    <p>All advertising materials mentioning features or use of this software must display the following acknowledgement:</p>
+    <p><pre>This product includes software developed by [project].</pre></p>
   </li>
-  <li>Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.</li>
+  <li><p>Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.</p></li>
 </ol>
 
 > [!IMPORTANT]

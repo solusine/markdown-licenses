@@ -5,8 +5,8 @@
 ###### (“_AFL_”) v. 3.0
 
 <h6>
-  This Academic Free License (the “<em>License</em>”) applies to any original work of authorship (the “<em>Original Work</em>”) whose owner (the “<em>Licensor</em>”) has placed the following licensing notice adjacent to the copyright notice for the Original Work:<br><br>
-
+  <p>This Academic Free License (the “<em>License</em>”) applies to any original work of authorship (the “<em>Original Work</em>”) whose owner (the “<em>Licensor</em>”) has placed the following licensing notice adjacent to the copyright notice for the Original Work:</p>
+  
   ```
   Licensed under the Academic Free License version 3.0
   ```
@@ -17,11 +17,11 @@
 Licensor grants You a worldwide, royalty-free, non-exclusive, sublicensable license, for the duration of the copyright, to do the following:
 
 <ol type="a">
-  <li>to reproduce the Original Work in copies, either alone or as part of a collective work;</li>
-  <li>to translate, adapt, alter, transform, modify, or arrange the Original Work, thereby creating derivative works (“<em>Derivative Works</em>”) based upon the Original Work;</li>
-  <li>to distribute or communicate copies of the Original Work and Derivative Works to the public, under any license of your choice that does not contradict the terms and conditions, including Licensor’s reserved rights and remedies, in this Academic Free License;</li>
-  <li>to perform the Original Work publicly; and</li>
-  <li>to display the Original Work publicly.</li>
+  <li><p>to reproduce the Original Work in copies, either alone or as part of a collective work;</p></li>
+  <li><p>to translate, adapt, alter, transform, modify, or arrange the Original Work, thereby creating derivative works (“<em>Derivative Works</em>”) based upon the Original Work;</p></li>
+  <li><p>to distribute or communicate copies of the Original Work and Derivative Works to the public, under any license of your choice that does not contradict the terms and conditions, including Licensor’s reserved rights and remedies, in this Academic Free License;</p></li>
+  <li><p>to perform the Original Work publicly; and</p></li>
+  <li><p>to display the Original Work publicly.</p></li>
 </ol>
 
 ### 2. Grant of Patent License
@@ -139,7 +139,7 @@ You may use the Original Work in all ways not otherwise restricted or conditione
 Nothing in this License permits You to modify this License as applied to the Original Work or to Derivative Works. However, You may modify the text of this License and copy, distribute or communicate your modified version (the “_Modified License_”) and apply it to other original works of authorship subject to the following conditions:
 
 <ol type="i">
-  <li>You may <em>not</em> indicate in any way that your Modified License is the “<em>Academic Free License</em>” or “<em>AFL</em>” and you may not use those names in the name of your Modified License;</li>
-  <li>You must replace the notice specified in the first paragraph above with the notice “<em>Licensed under <code>insert your license name here</code></em>” or with a notice of your own that is not confusingly similar to the notice in this License; and</li>
-  <li>You may <em>not</em> claim that your original works are open source software unless your Modified License has been approved by <a href="https://opensource.org/">Open Source Initiative</a> (OSI) and You comply with its <a href="https://opensource.org/licenses/review-process">license review and certification process</a>.</li>
+  <li><p>You may <em>not</em> indicate in any way that your Modified License is the “<em>Academic Free License</em>” or “<em>AFL</em>” and you may not use those names in the name of your Modified License;</p></li>
+  <li><p>You must replace the notice specified in the first paragraph above with the notice “<em>Licensed under <code>insert your license name here</code></em>” or with a notice of your own that is not confusingly similar to the notice in this License; and</p></li>
+  <li><p>You may <em>not</em> claim that your original works are open source software unless your Modified License has been approved by <a href="https://opensource.org/">Open Source Initiative</a> (OSI) and You comply with its <a href="https://opensource.org/licenses/review-process">license review and certification process</a>.</p></li>
 </ol>

@@ -20,7 +20,7 @@
 
   <dt><h4>Legal Entity</h4></dt>
   <dd>
-    “<em>Legal Entity</em>” shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity.<br><br>
+    <p>“<em>Legal Entity</em>” shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity.</p>
 
 > [!NOTE]
 > For the purposes of this definition, “<em>control</em>” means:
@@ -46,7 +46,7 @@
 
   <dt><h4>Derivative Works</h4></dt>
   <dd>
-    “<em>Derivative Works</em>” shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.<br><br>
+    <p>“<em>Derivative Works</em>” shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.</p>
 
 > [!NOTE]    
 > For the purposes of this License, Derivative Works shall <em>not</em> include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
@@ -55,7 +55,7 @@
 
   <dt><h4>Contribution</h4></dt>
   <dd>
-    “<em>Contribution</em>” shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner.<br><br>
+    <p>“<em>Contribution</em>” shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner.</p>
 
 > [!NOTE]
 > For the purposes of this definition, “<em>submitted</em>” means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as “<em>Not a Contribution.</em>”
@@ -82,18 +82,20 @@ Subject to the terms and conditions of this License, each Contributor hereby gra
 You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
 
 <ol type="a">
-  <li>You must give any other recipients of the Work or Derivative Works a copy of this License; and</li>
-  <li>You must cause any modified files to carry prominent notices stating that You changed the files; and</li>
-  <li>You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and</li>
+  <li><p>You must give any other recipients of the Work or Derivative Works a copy of this License; and</p></li>
+  <li><p>You must cause any modified files to carry prominent notices stating that You changed the files; and</p></li>
+  <li><p>You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and</p></li>
   <li>
-    If the Work includes a “<em>NOTICE</em>” text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places:<br><br>
+    <p>If the Work includes a “<em>NOTICE</em>” text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places:</p>
     <ul>
       <li>within a NOTICE text file distributed as part of the Derivative Works;</li>
       <li>within the Source form or documentation, if provided along with the Derivative Works; or,</li>
       <li>within a display generated by the Derivative Works, if and wherever such third-party notices normally appear.</li>
-    </ul><br>
-    The contents of the NOTICE file are for informational purposes only and do <em>not</em> modify the License.
-    You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+    </ul>
+    <p>
+      The contents of the NOTICE file are for informational purposes only and do <em>not</em> modify the License.
+      You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+    </p>
   </li>
 </ol>
 

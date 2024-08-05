@@ -60,29 +60,29 @@ If the terms of this license do not permit the full use that you propose to make
 ### Permission for Use and Modification Without Distribution
 
 <ol>
-  <li>You are permitted to use the Standard Version and create and use Modified Versions for any purpose without restriction, provided that you do not Distribute the Modified Version.</li>
+  <li><p>You are permitted to use the Standard Version and create and use Modified Versions for any purpose without restriction, provided that you do not Distribute the Modified Version.</p></li>
 </ol>
 
 ### Permissions for Redistribution of the Standard Version
 
 <ol start="2">
-  <li>You may Distribute verbatim copies of the Source form of the Standard Version of this Package in any medium without restriction, either gratis or for a Distributor Fee, provided that you duplicate all of the original copyright notices and associated disclaimers. At your discretion, such verbatim copies may or may not include a Compiled form of the Package.</li>
-  <li>You may apply any bug fixes, portability changes, and other modifications made available from the Copyright Holder. The resulting Package will still be considered the Standard Version, and as such will be subject to the Original License.</li>
+  <li><p>You may Distribute verbatim copies of the Source form of the Standard Version of this Package in any medium without restriction, either gratis or for a Distributor Fee, provided that you duplicate all of the original copyright notices and associated disclaimers. At your discretion, such verbatim copies may or may not include a Compiled form of the Package.</p></li>
+  <li><p>You may apply any bug fixes, portability changes, and other modifications made available from the Copyright Holder. The resulting Package will still be considered the Standard Version, and as such will be subject to the Original License.</p></li>
 </ol>
 
 ### Distribution of Modified Versions of the Package as Source
 
 <ol start="4">
   <li>
-    You may Distribute your Modified Version as Source (either gratis or for a Distributor Fee, and with or without a Compiled form of the Modified Version) provided that you clearly document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules, and provided that you do at least <strong>ONE</strong> of the following:<br><br>
+    <p>You may Distribute your Modified Version as Source (either gratis or for a Distributor Fee, and with or without a Compiled form of the Modified Version) provided that you clearly document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules, and provided that you do at least <strong>ONE</strong> of the following:</p>
     <ol type="a">
-      <li>make the Modified Version available to the Copyright Holder of the Standard Version, under the Original License, so that the Copyright Holder may include your modifications in the Standard Version.</li>
-      <li>ensure that installation of your Modified Version does <em>not</em> prevent the user installing or running the Standard Version. In addition, the Modified Version must bear a name that is different from the name of the Standard Version.</li>
+      <li><p>make the Modified Version available to the Copyright Holder of the Standard Version, under the Original License, so that the Copyright Holder may include your modifications in the Standard Version.</p></li>
+      <li><p>ensure that installation of your Modified Version does <em>not</em> prevent the user installing or running the Standard Version. In addition, the Modified Version must bear a name that is different from the name of the Standard Version.</p></li>
       <li>
-        allow anyone who receives a copy of the Modified Version to make the Source form of the Modified Version available to others under:<br><br>
+        <p>allow anyone who receives a copy of the Modified Version to make the Source form of the Modified Version available to others under:</p>
         <ol type="i">
-          <li>the Original License or</li>
-          <li>a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed.</li>
+          <li><p>the Original License or</p></li>
+          <li><p>a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed.</p></li>
         </ol>
       </li>
     </ol>
@@ -92,33 +92,33 @@ If the terms of this license do not permit the full use that you propose to make
 ### Distribution of Compiled Forms of the Standard Version or Modified Versions without the Source
 
 <ol start="5">
-  <li>You may Distribute Compiled forms of the Standard Version without the Source, provided that you include complete instructions on how to get the Source of the Standard Version. Such instructions must be valid at the time of your distribution. If these instructions, at any time while you are carrying out such distribution, become invalid, you must provide new instructions on demand or cease further distribution. If you provide valid instructions or cease distribution within thirty days after you become aware that the instructions are invalid, then you do not forfeit any of your rights under this license.</li>
-  <li>You may Distribute a Modified Version in Compiled form without the Source, provided that you comply with <a href="#distribution-of-modified-versions-of-the-package-as-source">Section 4</a> with respect to the Source of the Modified Version.</li>
+  <li><p>You may Distribute Compiled forms of the Standard Version without the Source, provided that you include complete instructions on how to get the Source of the Standard Version. Such instructions must be valid at the time of your distribution. If these instructions, at any time while you are carrying out such distribution, become invalid, you must provide new instructions on demand or cease further distribution. If you provide valid instructions or cease distribution within thirty days after you become aware that the instructions are invalid, then you do not forfeit any of your rights under this license.</p></li>
+  <li><p>You may Distribute a Modified Version in Compiled form without the Source, provided that you comply with <a href="#distribution-of-modified-versions-of-the-package-as-source">Section 4</a> with respect to the Source of the Modified Version.</p></li>
 </ol>
 
 ### Aggregating or Linking the Package
 
 <ol start="7">
-  <li>You may aggregate the Package (either the Standard Version or Modified Version) with other packages and Distribute the resulting aggregation provided that you do not charge a licensing fee for the Package. Distributor Fees are permitted, and licensing fees for other components in the aggregation are permitted. The terms of this license apply to the use and Distribution of the Standard or Modified Versions as included in the aggregation.</li>
-  <li>You are permitted to link Modified and Standard Versions with other works, to embed the Package in a larger work of your own, or to build stand-alone binary or bytecode versions of applications that include the Package, and Distribute the result without restriction, provided the result does <em>not</em> expose a direct interface to the Package.</li>
+  <li><p>You may aggregate the Package (either the Standard Version or Modified Version) with other packages and Distribute the resulting aggregation provided that you do not charge a licensing fee for the Package. Distributor Fees are permitted, and licensing fees for other components in the aggregation are permitted. The terms of this license apply to the use and Distribution of the Standard or Modified Versions as included in the aggregation.</p></li>
+  <li><p>You are permitted to link Modified and Standard Versions with other works, to embed the Package in a larger work of your own, or to build stand-alone binary or bytecode versions of applications that include the Package, and Distribute the result without restriction, provided the result does <em>not</em> expose a direct interface to the Package.</p></li>
 </ol>
 
 ### Items That are Not Considered Part of a Modified Version
 
 <ol start="9">
-  <li>Works (including, but not limited to, modules and scripts) that merely extend or make use of the Package, do not, by themselves, cause the Package to be a Modified Version. In addition, such works are <em>not</em> considered parts of the Package itself, and are not subject to the terms of this license.</li>
+  <li><p>Works (including, but not limited to, modules and scripts) that merely extend or make use of the Package, do not, by themselves, cause the Package to be a Modified Version. In addition, such works are <em>not</em> considered parts of the Package itself, and are not subject to the terms of this license.</p></li>
 </ol>
 
 ### General Provisions
 
 <ol start="10">
-  <li>Any use, modification, and distribution of the Standard or Modified Versions is governed by this Artistic License. By using, modifying or distributing the Package, you accept this license. Do not use, modify, or distribute the Package, if you do not accept this license.</li>
-  <li>If your Modified Version has been derived from a Modified Version made by someone other than you, you are nevertheless required to ensure that your Modified Version complies with the requirements of this license.</li>
-  <li>This license does <em>not</em> grant you the right to use any trademark, service mark, tradename, or logo of the Copyright Holder.</li>
-  <li>This license includes the non-exclusive, worldwide, free-of-charge patent license to make, have made, use, offer to sell, sell, import and otherwise transfer the Package with respect to any patent claims licensable by the Copyright Holder that are necessarily infringed by the Package. If you institute patent litigation (including a cross-claim or counterclaim) against any party alleging that the Package constitutes direct or contributory patent infringement, then this Artistic License to you shall terminate on the date that such litigation is filed.</li>
+  <li><p>Any use, modification, and distribution of the Standard or Modified Versions is governed by this Artistic License. By using, modifying or distributing the Package, you accept this license. Do not use, modify, or distribute the Package, if you do not accept this license.</p></li>
+  <li><p>If your Modified Version has been derived from a Modified Version made by someone other than you, you are nevertheless required to ensure that your Modified Version complies with the requirements of this license.</p></li>
+  <li><p>This license does <em>not</em> grant you the right to use any trademark, service mark, tradename, or logo of the Copyright Holder.</p></li>
+  <li><p>This license includes the non-exclusive, worldwide, free-of-charge patent license to make, have made, use, offer to sell, sell, import and otherwise transfer the Package with respect to any patent claims licensable by the Copyright Holder that are necessarily infringed by the Package. If you institute patent litigation (including a cross-claim or counterclaim) against any party alleging that the Package constitutes direct or contributory patent infringement, then this Artistic License to you shall terminate on the date that such litigation is filed.</p></li>
 </ol>
 
 > [!IMPORTANT]
 > <ol start="14">
->   <li><h4>Disclaimer of Warranty</h4><strong>THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS “<em>AS IS</em>” AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL LAW.</strong><br><br><strong>UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</strong></li>
+>   <li><h4>Disclaimer of Warranty</h4><p><strong>THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS “<em>AS IS</em>” AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL LAW.</strong></p><p><strong>UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</strong></p></li>
 > </ol>

@@ -72,8 +72,8 @@ Should any part of the License for any reason be judged legally invalid or ineff
 
 > [!IMPORTANT]
 > <ol type="a">
->  <li>No trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.</li>
->  <li>Affirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.</li>
->  <li>Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person’s Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.</li>
->  <li>Affirmer understands and acknowledges that Creative Commons is <em>not</em> a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.</li>
+>  <li><p>No trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.</p></li>
+>  <li><p>Affirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.</p></li>
+>  <li><p>Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person’s Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.</p></li>
+>  <li><p>Affirmer understands and acknowledges that Creative Commons is <em>not</em> a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.</p></li>
 > </ol>

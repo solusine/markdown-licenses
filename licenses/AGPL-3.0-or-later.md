@@ -83,7 +83,7 @@ The precise terms and conditions for copying, distribution and modification foll
 
   <dt><h4>Appropriate Legal Notices</h4></dt>
   <dd>
-    An interactive user interface displays “<em>Appropriate Legal Notices</em>” to the extent that it includes a convenient and prominently visible feature that:<br><br>
+    <p>An interactive user interface displays “<em>Appropriate Legal Notices</em>” to the extent that it includes a convenient and prominently visible feature that:</p>
     <ol>
       <li>displays an appropriate copyright notice, and</li>
       <li>tells the user that there is no warranty for the work (except to the extent that warranties are provided), that licensees may convey the work under this License, and how to view a copy of this License.</li>
@@ -106,7 +106,7 @@ The precise terms and conditions for copying, distribution and modification foll
 
   <dt><h4>System Libraries</h4></dt>
   <dd>
-    The “<em>System Libraries</em>” of an executable work include anything, other than the work as a whole, that:<br><br>
+    <p>The “<em>System Libraries</em>” of an executable work include anything, other than the work as a whole, that:</p>
     <ol type="a">
       <li>is included in the normal form of packaging a Major Component, but which is <em>not</em> part of that Major Component, and</li>
       <li>serves only to enable use of the work with that Major Component, or to implement a Standard Interface for which an implementation is available to the public in source code form.</li>
@@ -119,11 +119,13 @@ The precise terms and conditions for copying, distribution and modification foll
 
   <dt><h4>Corresponding Source</h4></dt>
   <dd>
-    The “<em>Corresponding Source</em>” for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities.
-    However, it does <em>not</em> include the work’s System Libraries, or general-purpose tools or generally available free programs which are used unmodified in performing those activities but which are not part of the work.<br><br>
-    For example, Corresponding Source includes interface definition files associated with source files for the work, and the source code for shared libraries and dynamically linked subprograms that the work is specifically designed to require, such as by intimate data communication or control flow between those subprograms and other parts of the work.<br><br>
-    The Corresponding Source need not include anything that users can regenerate automatically from other parts of the Corresponding Source.<br><br>
-    The Corresponding Source for a work in source code form is that same work.
+    <p>
+      The “<em>Corresponding Source</em>” for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities.
+      However, it does <em>not</em> include the work’s System Libraries, or general-purpose tools or generally available free programs which are used unmodified in performing those activities but which are not part of the work.
+    </p>
+    <p>For example, Corresponding Source includes interface definition files associated with source files for the work, and the source code for shared libraries and dynamically linked subprograms that the work is specifically designed to require, such as by intimate data communication or control flow between those subprograms and other parts of the work.</p>
+    <p>The Corresponding Source need not include anything that users can regenerate automatically from other parts of the Corresponding Source.</p>
+    <p>The Corresponding Source for a work in source code form is that same work.</p>
   </dd>
 </dl>
 
@@ -167,25 +169,32 @@ You may charge any price or no price for each copy that you convey, and you may 
 You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code under the terms of [section 4](#4-conveying-verbatim-copies), provided that you also meet all of these conditions:
 
 <ol type="a">
-  <li>The work must carry prominent notices stating that you modified it, and giving a relevant date.</li>
+  <li><p>The work must carry prominent notices stating that you modified it, and giving a relevant date.</p></li>
   <li>
-    The work must carry prominent notices stating that it is released under this License and any conditions added under <a href="#7-additional-terms">section 7</a>.
-    This requirement modifies the requirement in <a href="#4-conveying-verbatim-copies">section 4</a> to “<em>keep intact all notices</em>”.
+    <p>
+      The work must carry prominent notices stating that it is released under this License and any conditions added under <a href="#7-additional-terms">section 7</a>.
+      This requirement modifies the requirement in <a href="#4-conveying-verbatim-copies">section 4</a> to “<em>keep intact all notices</em>”.
+    </p>
   </li>
   <li>
-    You must license the entire work, as a whole, under this License to anyone who comes into possession of a copy.
-    This License will therefore apply, along with any applicable <a href="#7-additional-terms">section 7</a> additional terms, to the whole of the work, and all its parts, regardless of how they are packaged.
-    This License gives no permission to license the work in any other way, but it does <em>not</em> invalidate such permission if you have separately received it.
+    <p>
+      You must license the entire work, as a whole, under this License to anyone who comes into possession of a copy.
+      This License will therefore apply, along with any applicable <a href="#7-additional-terms">section 7</a> additional terms, to the whole of the work, and all its parts, regardless of how they are packaged.
+      This License gives no permission to license the work in any other way, but it does <em>not</em> invalidate such permission if you have separately received it.
+    </p>
   </li>
   <li>
-    If the work has interactive user interfaces, each must display Appropriate Legal Notices;
-    however, if the Program has interactive interfaces that do <em>not</em> display Appropriate Legal Notices, your work need not make them do so.</li>
+    <p>
+      If the work has interactive user interfaces, each must display Appropriate Legal Notices;
+      however, if the Program has interactive interfaces that do <em>not</em> display Appropriate Legal Notices, your work need not make them do so.
+    </p>
+  </li>
 </ol>
 
 <dl>
   <dt><h4>Aggregate</h4></dt>
   <dd>
-    A compilation of a covered work with other separate and independent works, which are not by their nature extensions of the covered work, and which are not combined with it such as to form a larger program, in or on a volume of a storage or distribution medium, is called an “<em>aggregate</em>” if the compilation and its resulting copyright are not used to limit the access or legal rights of the compilation’s users beyond what the individual works permit.<br><br>
+    <p>A compilation of a covered work with other separate and independent works, which are not by their nature extensions of the covered work, and which are not combined with it such as to form a larger program, in or on a volume of a storage or distribution medium, is called an “<em>aggregate</em>” if the compilation and its resulting copyright are not used to limit the access or legal rights of the compilation’s users beyond what the individual works permit.</p>
 
 > [!NOTE]
 > Inclusion of a covered work in an aggregate does _not_ cause this License to apply to the other parts of the aggregate.
@@ -200,22 +209,26 @@ You may convey a covered work in object code form under the terms of [sections 4
 <ol type="a">
   <li>Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by the Corresponding Source fixed on a durable physical medium customarily used for software interchange.</li>
   <li>
-    Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by a written offer, valid for at least three years and valid for as long as you offer spare parts or customer support for that product model, to give anyone who possesses the object code either:<br><br>
+    <p>Convey the object code in, or embodied in, a physical product (including a physical distribution medium), accompanied by a written offer, valid for at least three years and valid for as long as you offer spare parts or customer support for that product model, to give anyone who possesses the object code either:</p>
     <ol type="1">
       <li>a copy of the Corresponding Source for all the software in the product that is covered by this License, on a durable physical medium customarily used for software interchange, for a price no more than your reasonable cost of physically performing this conveying of source, or</li>
       <li>access to copy the Corresponding Source from a network server at no charge.
-    </ol><br>
+    </ol>
   </li>
   <li>
-    Convey individual copies of the object code with a copy of the written offer to provide the Corresponding Source.
-    This alternative is allowed only occasionally and noncommercially, and only if you received the object code with such an offer, in accord with <a href="#6-conveying-non-source-forms">subsection 6b</a>.
+    <p>
+      Convey individual copies of the object code with a copy of the written offer to provide the Corresponding Source.
+      This alternative is allowed only occasionally and noncommercially, and only if you received the object code with such an offer, in accord with <a href="#6-conveying-non-source-forms">subsection 6b</a>.
+    </p>
   </li>
   <li>
-    Convey the object code by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Corresponding Source in the same way through the same place at no further charge.
-    You need not require recipients to copy the Corresponding Source along with the object code. If the place to copy the object code is a network server, the Corresponding Source may be on a different server (operated by you or a third party) that supports equivalent copying facilities, provided you maintain clear directions next to the object code saying where to find the Corresponding Source.
-    Regardless of what server hosts the Corresponding Source, you remain obligated to ensure that it is available for as long as needed to satisfy these requirements.
+    <p>
+      Convey the object code by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Corresponding Source in the same way through the same place at no further charge.
+      You need not require recipients to copy the Corresponding Source along with the object code. If the place to copy the object code is a network server, the Corresponding Source may be on a different server (operated by you or a third party) that supports equivalent copying facilities, provided you maintain clear directions next to the object code saying where to find the Corresponding Source.
+      Regardless of what server hosts the Corresponding Source, you remain obligated to ensure that it is available for as long as needed to satisfy these requirements.
+    </p>
   </li>
-  <li>Convey the object code using peer-to-peer transmission, provided you inform other peers where the object code and Corresponding Source of the work are being offered to the general public at no charge under <a href="#6-conveying-non-source-forms">subsection 6d</a>.</li>
+  <li><p>Convey the object code using peer-to-peer transmission, provided you inform other peers where the object code and Corresponding Source of the work are being offered to the general public at no charge under <a href="#6-conveying-non-source-forms">subsection 6d</a>.</p></li>
 </ol>
 
 A separable portion of the object code, whose source code is excluded from the Corresponding Source as a System Library, need not be included in conveying the object code work.
@@ -223,13 +236,15 @@ A separable portion of the object code, whose source code is excluded from the C
 <dl>
   <dt><h4>User Product</h4></dt>
   <dd>
-    A “<em>User Product</em>” is either:<br><br>
+    <p>A “<em>User Product</em>” is either:</p>
     <ol>
       <li>a “<em>consumer product</em>”, which means any tangible personal property which is normally used for personal, family, or household purposes, or</li>
       <li>anything designed or sold for incorporation into a dwelling.</li>
     </ol>
-    In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage.
-    For a particular product received by a particular user, “<em>normally used</em>” refers to a typical or common use of that class of product, regardless of the status of the particular user or of the way in which the particular user actually uses, or expects or is expected to use, the product.<br><br>
+    <p>
+      In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage.
+      For a particular product received by a particular user, “<em>normally used</em>” refers to a typical or common use of that class of product, regardless of the status of the particular user or of the way in which the particular user actually uses, or expects or is expected to use, the product.
+    </p>
 
 > [!NOTE]
 > A product is a consumer product regardless of whether the product has substantial commercial, industrial or non-consumer uses, unless such uses represent the only significant mode of use of the product.
@@ -238,8 +253,8 @@ A separable portion of the object code, whose source code is excluded from the C
 
   <dt><h4>Installation Information</h4></dt>
   <dd>
-    “<em>Installation Information</em>” for a User Product means any methods, procedures, authorization keys, or other information required to install and execute modified versions of a covered work in that User Product from a modified version of its Corresponding Source.<br><br>
-    The information must suffice to ensure that the continued functioning of the modified object code is in no case prevented or interfered with solely because modification has been made.
+    <p>“<em>Installation Information</em>” for a User Product means any methods, procedures, authorization keys, or other information required to install and execute modified versions of a covered work in that User Product from a modified version of its Corresponding Source.</p>
+    <p>The information must suffice to ensure that the continued functioning of the modified object code is in no case prevented or interfered with solely because modification has been made.</p>
   </dd>
 </dl>
 
@@ -269,12 +284,12 @@ You may place additional permissions on material, added by you to a covered work
 Notwithstanding any other provision of this License, for material you add to a covered work, you may (if authorized by the copyright holders of that material) supplement the terms of this License with terms:
 
 <ol type="a">
-  <li>Disclaiming warranty or limiting liability differently from the terms of <a href="#15-disclaimer-of-warranty">sections 15</a> and <a href="#16-limitation-of-liability">16</a> of this License; or</li>
-  <li>Requiring preservation of specified reasonable legal notices or author attributions in that material or in the Appropriate Legal Notices displayed by works containing it; or</li>
-  <li>Prohibiting misrepresentation of the origin of that material, or requiring that modified versions of such material be marked in reasonable ways as different from the original version; or</li>
-  <li>Limiting the use for publicity purposes of names of licensors or authors of the material; or</li>
-  <li>Declining to grant rights under trademark law for use of some trade names, trademarks, or service marks; or</li>
-  <li>Requiring indemnification of licensors and authors of that material by anyone who conveys the material (or modified versions of it) with contractual assumptions of liability to the recipient, for any liability that these contractual assumptions directly impose on those licensors and authors.</li>
+  <li><p>Disclaiming warranty or limiting liability differently from the terms of <a href="#15-disclaimer-of-warranty">sections 15</a> and <a href="#16-limitation-of-liability">16</a> of this License; or</p></li>
+  <li><p>Requiring preservation of specified reasonable legal notices or author attributions in that material or in the Appropriate Legal Notices displayed by works containing it; or</p></li>
+  <li><p>Prohibiting misrepresentation of the origin of that material, or requiring that modified versions of such material be marked in reasonable ways as different from the original version; or</p></li>
+  <li><p>Limiting the use for publicity purposes of names of licensors or authors of the material; or</p></li>
+  <li><p>Declining to grant rights under trademark law for use of some trade names, trademarks, or service marks; or</p></li>
+  <li><p>Requiring indemnification of licensors and authors of that material by anyone who conveys the material (or modified versions of it) with contractual assumptions of liability to the recipient, for any liability that these contractual assumptions directly impose on those licensors and authors.</p></li>
 </ol>
 
 <dl>
@@ -351,7 +366,7 @@ If propagation of a covered work results from an entity transaction, each party 
   </dd>
   <dt><h4>Essential Patent Claims</h4></dt>
   <dd>
-    A contributor’s “<em>essential patent claims</em>” are all patent claims owned or controlled by the contributor, whether already acquired or hereafter acquired, that would be infringed by some manner, permitted by this License, of making, using, or selling its contributor version, but do <em>not</em> include claims that would be infringed only as a consequence of further modification of the contributor version.<br><br>
+    <p>A contributor’s “<em>essential patent claims</em>” are all patent claims owned or controlled by the contributor, whether already acquired or hereafter acquired, that would be infringed by some manner, permitted by this License, of making, using, or selling its contributor version, but do <em>not</em> include claims that would be infringed only as a consequence of further modification of the contributor version.</p>
 
 > [!NOTE]
 > For purposes of this definition, “<em>control</em>” includes the right to grant patent sublicenses in a manner consistent with the requirements of this License.
@@ -364,8 +379,8 @@ Each contributor grants you a non-exclusive, worldwide, royalty-free patent lice
 <dl>
   <dt><h4>Patent License</h4></dt>
   <dd>
-    In the following three paragraphs, a “<em>patent license</em>” is any express agreement or commitment, however denominated, <em>not</em> to enforce a patent (such as an express permission to practice a patent or covenant not to sue for patent infringement).<br><br>
-    To “<em>grant</em>” such a patent license to a party means to make such an agreement or commitment not to enforce a patent against the party.
+    <p>In the following three paragraphs, a “<em>patent license</em>” is any express agreement or commitment, however denominated, <em>not</em> to enforce a patent (such as an express permission to practice a patent or covenant not to sue for patent infringement).</p>
+    <p>To “<em>grant</em>” such a patent license to a party means to make such an agreement or commitment not to enforce a patent against the party.</p>
   </dd>
 </dl>
 
