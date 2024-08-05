@@ -6,19 +6,19 @@
 ### 1. Definitions
 
 <dl>
-  <dt><h4>1.1 "<em>Contributor</em>"</h4></dt>
+  <dt><h4>1.1 “<em>Contributor</em>”</h4></dt>
   <dd>means each individual or legal entity that creates, contributes to the creation of, or owns Covered Software.</dd>
 
-  <dt><h4>1.2 "<em>Contributor Version</em>"</h4></dt>
+  <dt><h4>1.2 “<em>Contributor Version</em>”</h4></dt>
   <dd>means the combination of the Contributions of others (if any) used by a Contributor and that particular Contributor's Contribution.</dd>
 
-  <dt><h4>1.3 "<em>Contribution</em>"</h4></dt>
+  <dt><h4>1.3 “<em>Contribution</em>”</h4></dt>
   <dd>means Covered Software of a particular Contributor.</dd>
 
-  <dt><h4>1.4 "<em>Covered Software</em>"</h4></dt>
+  <dt><h4>1.4 “<em>Covered Software</em>”</h4></dt>
   <dd>means Source Code Form to which the initial Contributor has attached the notice in <a href="#exhibit-a--source-code-form-license-notice">Exhibit A</a>, the Executable Form of such Source Code Form, and Modifications of such Source Code Form, in each case including portions thereof.</dd>
 
-  <dt><h4>1.5 "<em>Incompatible With Secondary Licenses</em>"</h4></dt>
+  <dt><h4>1.5 “<em>Incompatible With Secondary Licenses</em>”</h4></dt>
   <dd>
     means<br><br>
     <ol type="a">
@@ -27,19 +27,19 @@
     </ol>
   </dd>
 
-  <dt><h4>1.6 "<em>Executable Form</em>"</h4></dt>
+  <dt><h4>1.6 “<em>Executable Form</em>”</h4></dt>
   <dd>means any form of the work other than Source Code Form.</dd>
 
-  <dt><h4>1.7 "<em>Larger Work</em>"</h4></dt>
+  <dt><h4>1.7 “<em>Larger Work</em>”</h4></dt>
   <dd>means a work that combines Covered Software with other material, in a separate file or files, that is not Covered Software.</dd>
 
-  <dt><h4>1.8 "<em>License</em>"</h4></dt>
+  <dt><h4>1.8 “<em>License</em>”</h4></dt>
   <dd>means this document.</dd>
 
-  <dt><h4>1.9 "<em>Licensable</em>"</h4></dt>
+  <dt><h4>1.9 “<em>Licensable</em>”</h4></dt>
   <dd>means having the right to grant, to the maximum extent possible, whether at the time of the initial grant or subsequently, any and all of the rights conveyed by this License.</dd>
 
-  <dt><h4>1.10 "<em>Modifications</em>"</h4></dt>
+  <dt><h4>1.10 “<em>Modifications</em>”</h4></dt>
   <dd>
     means any of the following:<br><br>
     <ol type="a">
@@ -48,22 +48,22 @@
     </ol>
   </dd>
 
-  <dt><h4>1.11 "<em>Patent Claims</em>" of a Contributor</h4></dt>
+  <dt><h4>1.11 “<em>Patent Claims</em>” of a Contributor</h4></dt>
   <dd>means any patent claim(s), including without limitation, method, process, and apparatus claims, in any patent Licensable by such Contributor that would be infringed, but for the grant of the License, by the making, using, selling, offering for sale, having made, import, or transfer of either its Contributions or its Contributor Version.</dd>
 
-  <dt><h4>1.12 "<em>Secondary License</em>"</h4></dt>
+  <dt><h4>1.12 “<em>Secondary License</em>”</h4></dt>
   <dd>means either the <a href="https://www.gnu.org/licenses/gpl-2.0.html">GNU General Public License, Version 2.0</a>, the <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">GNU Lesser General Public License, Version 2.1</a>, the <a href="https://www.gnu.org/licenses/agpl-3.0.html">GNU Affero General Public License, Version 3.0</a>, or any later versions of those licenses.</dd>
 
-  <dt><h4>1.13 "<em>Source Code Form</em>"</h4></dt>
+  <dt><h4>1.13 “<em>Source Code Form</em>”</h4></dt>
   <dd>means the form of the work preferred for making modifications.</dd>
 
-  <dt><h4>1.14 "<em>You</em>" (or "<em>Your</em>")</h4></dt>
+  <dt><h4>1.14 “<em>You</em>” (or “<em>Your</em>”)</h4></dt>
   <dd>
     means an individual or a legal entity exercising rights under this License.
-    For legal entities, "<em>You</em>" includes any entity that controls, is controlled by, or is under common control with You.<br><br>
+    For legal entities, “<em>You</em>” includes any entity that controls, is controlled by, or is under common control with You.<br><br>
 
 > [!NOTE]
-> For purposes of this definition, "<em>control</em>" means
+> For purposes of this definition, “<em>control</em>” means
 > 
 > <ol type="a">
 >   <li>the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or </li>
@@ -216,7 +216,7 @@ Moreover, Your grants from a particular Contributor are reinstated on an ongoing
 ### 6. Disclaimer of Warranty
 
 > [!IMPORTANT]
-> Covered Software is provided under this License on an "_as is_" basis, without warranty of any kind, either expressed, implied, or statutory, including, without limitation, warranties that the Covered Software is free of defects, merchantable, fit for a particular purpose or non-infringing.
+> Covered Software is provided under this License on an “_as is_” basis, without warranty of any kind, either expressed, implied, or statutory, including, without limitation, warranties that the Covered Software is free of defects, merchantable, fit for a particular purpose or non-infringing.
 >
 > The entire risk as to the quality and performance of the Covered Software is with You.
 > Should any Covered Software prove defective in any respect, You (not any Contributor) assume the cost of any necessary servicing, repair, or correction.
@@ -278,7 +278,7 @@ If it is not possible or desirable to put the notice in a particular file, then 
 
 You may add additional accurate notices of copyright ownership.
 
-## Exhibit B — "Incompatible With Secondary Licenses" Notice
+## Exhibit B — “Incompatible With Secondary Licenses” Notice
 
 ```
 This Source Code Form is "Incompatible With Secondary Licenses", as
