@@ -1,6 +1,6 @@
-<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 
-## Attribution 4.0 International
+## Attribution-ShareAlike 4.0 International
 
 <h6>
   Creative Commons Corporation (“<em>Creative Commons</em>”) is <em>not</em> a law firm and does not provide legal services or legal advice.
@@ -32,20 +32,21 @@ The following considerations are for informational purposes only, are not exhaus
 > <h4>Considerations for the Public</h4>
 > 
 > By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions.
-> If the licensor’s permission is not necessary for any reason—for example, because of any applicable exception or limitation to copyright—then that use is _not_ regulated by the license.
+> If the licensor's permission is not necessary for any reason—for example, because of any applicable exception or limitation to copyright—then that use is not regulated by the license.
 > Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant.
 > Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material.
 > A licensor may make special requests, such as asking that all changes be marked or described.
 > Although not required by our licenses, you are encouraged to respect those requests where reasonable.
->
+> 
 > More considerations for the public: [wiki.creativecommons.org/Considerations_for_licensees](https://wiki.creativecommons.org/Considerations_for_licensees)
 
-# Creative Commons Attribution 4.0 International Public License
+# Creative Commons Attribution-ShareAlike 4.0 International Public License
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License (“_Public License_”).
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License (“_Public License_”).
 To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
 ### Section 1 — Definitions
+
 <dl>
 <ol type="a">
   <li>
@@ -56,8 +57,12 @@ To the extent this Public License may be interpreted as a contract, You are gran
     </dd>
   </li>
   <li>
-    <dt><h4>Adapter’s License</h4></dt>
-    <dd>means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.</dd>
+    <dt><h4>Adapter's License</h4></dt>
+    <dd><p>means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.</p></dd>
+  </li>
+  <li>
+    <dt><h4>BY-SA Compatible License</h4></dt>
+    <dd><p>means a license listed at <a href="https://creativecommons.org/compatiblelicenses">creativecommons.org/compatiblelicenses</a>, approved by Creative Commons as essentially the equivalent of this Public License.</p></dd>
   </li>
   <li>
     <dt><h4>Copyright and Similar Rights</h4></dt>
@@ -68,35 +73,39 @@ To the extent this Public License may be interpreted as a contract, You are gran
   </li>
   <li>
     <dt><h4>Effective Technological Measures</h4></dt>
-    <dd>means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under <a href="https://www.wipo.int/wipolex/en/text/295157">Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996</a>, and/or similar international agreements.</dd>
+    <dd><p>means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under <a href="https://www.wipo.int/wipolex/en/text/295157">Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996</a>, and/or similar international agreements.</p></dd>
   </li>
   <li>
     <dt><h4>Exceptions and Limitations</h4></dt>
-    <dd>means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.</dd>
+    <dd><p>means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.</p></dd>
+  </li>
+  <li>
+    <dt><h4>License Elements</h4></dt>
+    <dd><p>means the license attributes listed in the name of a Creative Commons Public License. The License Elements of this Public License are Attribution and ShareAlike.</p></dd>
   </li>
   <li>
     <dt><h4>Licensed Material</h4></dt>
-    <dd>means the artistic or literary work, database, or other material to which the Licensor applied this Public License.</dd>
+    <dd><p>means the artistic or literary work, database, or other material to which the Licensor applied this Public License.</p></dd>
   </li>
   <li>
     <dt><h4>Licensed Rights</h4></dt>
-    <dd>means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.</dd>
+    <dd><p>means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.</p></dd>
   </li>
   <li>
     <dt><h4>Licensor</h4></dt>
-    <dd>means the individual(s) or entity(ies) granting rights under this Public License.</dd>
+    <dd><p>means the individual(s) or entity(ies) granting rights under this Public License.</p></dd>
   </li>
   <li>
     <dt><h4>Share</h4></dt>
-    <dd>means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.</dd>
+    <dd><p> means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.</p></dd>
   </li>
   <li>
     <dt><h4>Sui Generis Database Rights</h4></dt>
-    <dd>means rights other than copyright resulting from <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:31996L0009">Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases</a>, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.</dd>
+    <dd><p>means rights other than copyright resulting from <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:31996L0009">Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases</a>, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.</p></dd>
   </li>
   <li>
     <dt><h4>You</h4></dt>
-    <dd>means the individual or entity exercising the Licensed Rights under this Public License. “<em>Your</em>” has a corresponding meaning.</dd>
+    <dd><p>means the individual or entity exercising the Licensed Rights under this Public License. “<em>Your</em>” has a corresponding meaning.</p></dd>
   </li>
 </ol>
 </dl>
@@ -110,13 +119,13 @@ To the extent this Public License may be interpreted as a contract, You are gran
       <li>
         <p>Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:</p>
         <ol type="a">
-            <li>reproduce and Share the Licensed Material, in whole or in part; and</li>
-            <li>produce, reproduce, and Share Adapted Material.</li>
+          <li>reproduce and Share the Licensed Material, in whole or in part; and</li>
+          <li>produce, reproduce, and Share Adapted Material.</li>
         </ol>
       </li>
       <li>
         <h4>Exceptions and Limitations</h4>
-        For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does <em>not</em> apply, and You do not need to comply with its terms and conditions.
+        For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
       </li>
       <li>
         <h4>Term</h4>
@@ -126,7 +135,7 @@ To the extent this Public License may be interpreted as a contract, You are gran
         <h4>Media and Formats; Technical Modifications Allowed</h4>
         <p>
           The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so.
-          The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures.
+          The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. 
         </p>
         <p>For purposes of this Public License, simply making modifications authorized by this <a href="#media-and-formats-technical-modifications-allowed">Section 2(a)(4)</a> never produces Adapted Material.</p>
       </li>
@@ -136,6 +145,10 @@ To the extent this Public License may be interpreted as a contract, You are gran
           <li>
             <h5>Offer from the Licensor — Licensed Material</h5>
             Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+          </li>
+          <li>
+            <h5>Additional Offer from the Licensor — Adapted Material</h5>
+            Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter's License You apply.
           </li>
           <li>
             <h5>No Downstream Restrictions</h5>
@@ -152,19 +165,19 @@ To the extent this Public License may be interpreted as a contract, You are gran
   <li>
     <h4>Other Rights</h4>
     <ol type="1">
-       <li>
-         <p>
-           Moral rights, such as the right of integrity, are <em>not</em> licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights;
-           however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
-         </p>
-       </li>
-       <li><p>Patent and trademark rights are <em>not</em> licensed under this Public License.</p></li>
-       <li>
-         <p>
-           To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme.
-           In all other cases the Licensor expressly reserves any right to collect such royalties.
-         </p>
-       </li>
+      <li>
+        <p>
+          Moral rights, such as the right of integrity, are <em>not</em> licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights;
+          however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+        </p>
+      </li>
+      <li><p>Patent and trademark rights are <em>not</em> licensed under this Public License.</p></li>
+      <li>
+        <p>
+          To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme.
+          In all other cases the Licensor expressly reserves any right to collect such royalties.
+        </p>
+      </li>
     </ol>
   </li>
 </ol>
@@ -179,7 +192,7 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
     <ol type="1">
       <li>
         <p>If You Share the Licensed Material (including in modified form), You must:</p>
-        <ol>
+        <ol type="a">
           <li>
             <p>retain the following if it is supplied by the Licensor with the Licensed Material:</p>
             <ol>
@@ -201,7 +214,20 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
         </p>
       </li>
       <li><p>If requested by the Licensor, You must remove any of the information required by <a href="#attribution">Section 3(a)(1)(A)</a> to the extent reasonably practicable.</p></li>
-      <li><p>If You Share Adapted Material You produce, the Adapter’s License You apply must <em>not</em> prevent recipients of the Adapted Material from complying with this Public License.</p></li>
+    </ol>
+  </li>
+  <li>
+    <h4>ShareAlike</h4>
+    <p>In addition to the conditions in <a href="#attribution">Section 3(a)</a>, if You Share Adapted Material You produce, the following conditions also apply.</p>
+    <ol type="1">
+      <li><p>The Adapter's License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.</p></li>
+      <li>
+        <p>
+          You must include the text of, or the URI or hyperlink to, the Adapter's License You apply.
+          You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+        </p>
+      </li>
+      <li><p>You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.</p></li>
     </ol>
   </li>
 </ol>
@@ -212,7 +238,7 @@ Where the Licensed Rights include Sui Generis Database Rights that apply to Your
 
 <ol type="a">
   <li><p>for the avoidance of doubt, <a href="#license-grant">Section 2(a)(1)</a> grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;</p></li>
-  <li><p>if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and</p></li>
+  <li><p>if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of <a href="#sharealike">Section 3(b)</a>; and</p></li>
   <li><p>You must comply with the conditions in <a href="#attribution">Section 3(a)</a> if You Share all or a substantial portion of the contents of the database.</p></li>
 </ol>
 
@@ -296,10 +322,11 @@ For the avoidance of doubt, this [Section 4](#section-4--sui-generis-database-ri
 ---
 
 <h6>
-  Creative Commons is <em>not</em> a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “<em>Licensor</em>.”
+  Creative Commons is not a party to its public licenses.
+  Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “<em>Licensor</em>.”
   The text of the Creative Commons public licenses is dedicated to the public domain under the <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode.en">CC0 Public Domain Dedication</a>.
   Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at <a href="https://creativecommons.org/policies">creativecommons.org/policies</a>, Creative Commons does not authorize the use of the trademark “<em>Creative Commons</em>” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material.
-  For the avoidance of doubt, this paragraph does <em>not</em> form part of the public licenses.
+  For the avoidance of doubt, this paragraph does not form part of the public licenses.
 </h6>
 
 Creative Commons may be contacted at [creativecommons.org](https://creativecommons.org)
