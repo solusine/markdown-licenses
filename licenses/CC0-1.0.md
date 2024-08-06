@@ -1,8 +1,8 @@
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 
-# Creative Commons Legal Code
+###### Creative Commons Legal Code
 
-###### CC0 1.0 Universal
+# CC0 1.0 Universal
 
 <h6>
   CREATIVE COMMONS CORPORATION IS <em>NOT</em> A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES.
