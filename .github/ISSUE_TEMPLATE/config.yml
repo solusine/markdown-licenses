@@ -1,2 +1,6 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Questions
+    url: https://github.com/solusine/markdown-licenses/discussions
+    about: Have a question about a certain license or the project in general? Start a discussion instead of opening an issue!
 
