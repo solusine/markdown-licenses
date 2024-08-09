@@ -21,7 +21,7 @@ body:
     id: osi
     attributes:
       label: Open Source?
-      description: Is your proposed license OSI approved (You can check at [opensource.org/licenses](https://opensource.org/licenses))?
+      description: Is your proposed license [OSI approved](https://opensource.org/licenses)?
       options:
         - "Yes"
         - "No"
