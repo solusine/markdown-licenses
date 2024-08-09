@@ -1,0 +1,46 @@
+name: Suggest A License
+description: Suggest a new open-source license to be added to the collection.
+title: "[REQUEST]: "
+labels: ["license proposal"]
+assignees:
+  - solusine
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to help make this project even better! Make sure to include the name of your proposed license in the title.
+  - type: input
+    id: spdx
+    attributes:
+      label: SPDX License Identifier
+      description: You can find this by searching for your license on spdx.org/licenses
+      placeholder: e.g. MIT, GPL-3.0-or-later, etc
+    validations:
+      required: true
+  - type: dropdown
+    id: osi
+    attributes:
+      label: Open Source?
+      description: Is your proposed license OSI approved (opensource.org/licenses)?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Info (optional)
+      description: Do you have any relevant or additional info you'd like to provide?
+      placeholder: You can include things like a source website or a reason for wanting to add this license.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this license proposal, you agree to follow our [Code of Conduct](https://github.com/solusine/markdown-licenses/tree/main/.github/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow the Code of Conduct
+          required: true
+
