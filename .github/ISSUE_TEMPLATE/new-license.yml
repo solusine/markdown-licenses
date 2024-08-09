@@ -13,7 +13,7 @@ body:
     id: spdx
     attributes:
       label: SPDX License Identifier
-      description: You can find this by searching for your license on spdx.org/licenses
+      description: You can find this by searching for your license on [spdx.org/licenses](https://spdx.org/licenses)
       placeholder: e.g. MIT, GPL-3.0-or-later, etc
     validations:
       required: true
@@ -21,7 +21,7 @@ body:
     id: osi
     attributes:
       label: Open Source?
-      description: Is your proposed license OSI approved (opensource.org/licenses)?
+      description: Is your proposed license OSI approved (You can check at [opensource.org/licenses](https://opensource.org/licenses))?
       options:
         - "Yes"
         - "No"
