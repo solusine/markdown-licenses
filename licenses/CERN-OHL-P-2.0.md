@@ -111,7 +111,7 @@ You may Make Products, and/or Convey them, provided that You ensure that the rec
 > #### 5.1 Disclaimer Of Warranty
 > The Covered Source and any Products are provided “_as is_” and any express or implied warranties, including, but not limited to, implied warranties of merchantability, of satisfactory quality, non-infringement of third party rights, and fitness for a particular purpose or use are disclaimed in respect of any Source or Product to the maximum extent permitted by law.
 > The Licensor makes no representation that any Source or Product does not or will not infringe any patent, copyright, trade secret or other proprietary right.
-> The entire risk as to the use, quality, and performance of any Source or Product shall be with You and not the Licensor.
+> The entire risk as to the use, quality, and performance of any Source or Product shall be with You and _not_ the Licensor.
 >
 > This disclaimer of warranty is an essential part of this Licence and a condition for the grant of any rights granted under this Licence.
 
@@ -137,7 +137,7 @@ If any provisions of this Licence are or subsequently become invalid or unenforc
 
 #### 7.2
 
-You shall not use any of the name (including acronyms and abbreviations), image, or logo by which the Licensor or CERN is known, except where needed to comply with [section 3](#3-copying-modifying-and-conveying-covered-source), or where the use is otherwise allowed by law.
+You shall _not_ use any of the name (including acronyms and abbreviations), image, or logo by which the Licensor or CERN is known, except where needed to comply with [section 3](#3-copying-modifying-and-conveying-covered-source), or where the use is otherwise allowed by law.
       
 Any such permitted use shall be factual and shall not be made so as to suggest any kind of endorsement or implication of involvement by the Licensor or its personnel.
 
@@ -146,7 +146,7 @@ Any such permitted use shall be factual and shall not be made so as to suggest a
 CERN may publish updated versions and variants of this Licence which it considers to be in the spirit of this version, but may differ in detail to address new problems or concerns.
 New versions will be published with a unique version number and a variant identifier specifying the variant.
 
-If the Licensor has specified that a given variant applies to the Covered Source without specifying a version, You may treat that Covered Source as being released under any version of the CERN-OHL with that variant.
+If the Licensor has specified that a given variant applies to the Covered Source without specifying a version, You may treat that Covered Source as being released under any version of the `CERN-OHL` with that variant.
 If no variant is specified, the Covered Source shall be treated as being released under `CERN-OHL-S`.
 
 The Licensor may also specify that the Covered Source is subject to a specific version of the `CERN-OHL` or any later version in which case You may apply this or any later version of `CERN-OHL` with the same variant identifier published by CERN.
