@@ -1,4 +1,4 @@
-<!-- SPDX-License-Identifier: CERN-OHL-P-2.0 -->
+i><!-- SPDX-License-Identifier: CERN-OHL-P-2.0 -->
 
 # CERN Open Hardware Licence
 ###### Version 2 - Permissive
@@ -15,31 +15,31 @@ Use of this Licence does not imply any endorsement by CERN of any Licensor or th
 ### 1. Definitions
 
 <dl>
-  <dt><h4>1.1 “<em>Licence</em>”</h4></dt>
+  <dt><h4>1.1 “<i>Licence</i>”</h4></dt>
   <dd>means this <code>CERN-OHL-P</code>.</dd>
 
-  <dt><h4>1.2 “<em>Source</em>”</h4></dt>
+  <dt><h4>1.2 “<i>Source</i>”</h4></dt>
   <dd>
     <p>means information such as design materials or digital code which can be applied to Make or test a Product or to prepare a Product for use, Conveyance or sale, regardless of its medium or how it is expressed.</p>
     <p>It may include Notices.</p>
   </dd>
 
-  <dt><h4>1.3 “<em>Covered Source</em>”</h4></dt>
+  <dt><h4>1.3 “<i>Covered Source</i>”</h4></dt>
   <dd>means Source that is explicitly made available under this Licence.</dd>
 
-  <dt><h4>1.4 “<em>Product</em>”</h4></dt>
+  <dt><h4>1.4 “<i>Product</i>”</h4></dt>
   <dd>means any device, component, work or physical object, whether in finished or intermediate form, arising from the use, application or processing of Covered Source.</dd>
 
-  <dt><h4>1.5 “<em>Make</em>”</h4></dt>
+  <dt><h4>1.5 “<i>Make</i>”</h4></dt>
   <dd>means to create or configure something, whether by manufacture, assembly, compiling, loading or applying Covered Source or another Product or otherwise.</dd>
 
-  <dt><h4>1.6 “<em>Notice</em>”</h4></dt>
+  <dt><h4>1.6 “<i>Notice</i>”</h4></dt>
   <dd>means copyright, acknowledgement and trademark notices, references to the location of any Notices, modification notices (<a href="#33">subsection 3.3(b)</a>) and all notices that refer to this Licence and to the disclaimer of warranties that are included in the Covered Source.</dd>
 
-  <dt><h4>1.7 “<em>Licensee</em>” or “<em>You</em>”</h4></dt>
+  <dt><h4>1.7 “<i>Licensee</i>” or “<i>You</i>”</h4></dt>
   <dd>means any person exercising rights under this Licence.</dd>
 
-  <dt><h4>1.8 “<em>Licensor</em>”</h4></dt>
+  <dt><h4>1.8 “<i>Licensor</i>”</h4></dt>
   <dd>
     <p>means a person who creates Source or modifies Covered Source and subsequently Conveys the resulting Covered Source under the terms and conditions of this Licence.</p>
     
@@ -47,7 +47,7 @@ Use of this Licence does not imply any endorsement by CERN of any Licensor or th
   > A person may be a Licensee and a Licensor at the same time.
   </dd>
 
-  <dt><h4>1.9 “<em>Convey</em>”</h4></dt>
+  <dt><h4>1.9 “<i>Convey</i>”</h4></dt>
   <dd>means to communicate to the public or distribute.</dd>
 </dl>
 

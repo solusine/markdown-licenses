@@ -3,9 +3,9 @@
 ## Attribution 4.0 International
 
 <h6>
-  Creative Commons Corporation (“<em>Creative Commons</em>”) is <em>not</em> a law firm and does not provide legal services or legal advice.
+  Creative Commons Corporation (“<i>Creative Commons</i>”) is <em>not</em> a law firm and does not provide legal services or legal advice.
   Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship.
-  Creative Commons makes its licenses and related information available on an “<em>as-is</em>” basis.
+  Creative Commons makes its licenses and related information available on an “<i>as-is</i>” basis.
   Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information.
   Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 </h6>
@@ -96,7 +96,7 @@ To the extent this Public License may be interpreted as a contract, You are gran
   </li>
   <li>
     <dt><h4>You</h4></dt>
-    <dd>means the individual or entity exercising the Licensed Rights under this Public License. “<em>Your</em>” has a corresponding meaning.</dd>
+    <dd>means the individual or entity exercising the Licensed Rights under this Public License. “<i>Your</i>” has a corresponding meaning.</dd>
   </li>
 </ol>
 </dl>
@@ -223,16 +223,16 @@ For the avoidance of doubt, this [Section 4](#section-4--sui-generis-database-ri
 > [!IMPORTANT]
 > <ol type="a">
 >   <li>
->     <p><strong>UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE.</strong></p>
->     <p><strong>WHERE DISCLAIMERS OF WARRANTIES ARE <em>NOT</em> ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.</strong></p>
+>     <p><b>UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT KNOWN OR DISCOVERABLE.</b></p>
+>     <p><b>WHERE DISCLAIMERS OF WARRANTIES ARE <em>NOT</em> ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.</b></p>
 >   </li>
 > </ol>
 
 > [!CAUTION]
 > <ol type="a" start="2">
 >   <li>
->     <p><strong>TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES, COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR DAMAGES.</strong></p>
->     <p><strong>WHERE A LIMITATION OF LIABILITY IS <em>NOT</em> ALLOWED IN FULL OR IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.</strong></p>
+>     <p><b>TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES, COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR DAMAGES.</b></p>
+>     <p><b>WHERE A LIMITATION OF LIABILITY IS <em>NOT</em> ALLOWED IN FULL OR IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.</b></p>
 >   </li>
 > </ol>
 
@@ -296,9 +296,9 @@ For the avoidance of doubt, this [Section 4](#section-4--sui-generis-database-ri
 ---
 
 <h6>
-  Creative Commons is <em>not</em> a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “<em>Licensor</em>.”
+  Creative Commons is <em>not</em> a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “<i>Licensor</i>.”
   The text of the Creative Commons public licenses is dedicated to the public domain under the <a href="https://creativecommons.org/publicdomain/zero/1.0/legalcode.en">CC0 Public Domain Dedication</a>.
-  Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at <a href="https://creativecommons.org/policies">creativecommons.org/policies</a>, Creative Commons does not authorize the use of the trademark “<em>Creative Commons</em>” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material.
+  Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at <a href="https://creativecommons.org/policies">creativecommons.org/policies</a>, Creative Commons does not authorize the use of the trademark “<i>Creative Commons</i>” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material.
   For the avoidance of doubt, this paragraph does <em>not</em> form part of the public licenses.
 </h6>
 

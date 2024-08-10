@@ -12,49 +12,49 @@ This license establishes the terms under which a given free software Package may
 The intent is that the Copyright Holder maintains some artistic control over the development of that Package while still keeping the Package available as open source and free software.
 
 You are always permitted to make arrangements wholly outside of this license directly with the Copyright Holder of a given Package.
-If the terms of this license do not permit the full use that you propose to make of the Package, you should contact the Copyright Holder and seek a different licensing arrangement.
+If the terms of this license do not permit the full use that you propose to make of the Package, you should contact the Copyright Holder and seek a different licensing arrangement.i>
 
 ### Definitions
 
 <dl>
   <dt><h4>Copyright Holder</h4></dt>
-  <dd>“<em>Copyright Holder</em>” means the individual(s) or organization(s) named in the copyright notice for the entire Package.</dd>
+  <dd>“<i>Copyright Holder</i>” means the individual(s) or organization(s) named in the copyright notice for the entire Package.</dd>
 
   <dt><h4>Contributor</h4></dt>
-  <dd>“<em>Contributor</em>” means any party that has contributed code or other material to the Package, in accordance with the Copyright Holder’s procedures.</dd>
+  <dd>“<i>Contributor</i>” means any party that has contributed code or other material to the Package, in accordance with the Copyright Holder’s procedures.</dd>
 
   <dt><h4>You</h4></dt>
-  <dd>“<em>You</em>” and “<em>your</em>” means any person who would like to copy, distribute, or modify the Package.</dd>
+  <dd>“<i>You</i>” and “<i>your</i>” means any person who would like to copy, distribute, or modify the Package.</dd>
 
   <dt><h4>Package</h4></dt>
   <dd>
-    “<em>Package</em>” means the collection of files distributed by the Copyright Holder, and derivatives of that collection and/or of those files.
+    “<i>Package</i>” means the collection of files distributed by the Copyright Holder, and derivatives of that collection and/or of those files.
     A given Package may consist of either the Standard Version, or a Modified Version.
   </dd>
 
   <dt><h4>Distribute</h4></dt>
-  <dd>“<em>Distribute</em>” means providing a copy of the Package or making it accessible to anyone else, or in the case of a company or organization, to others outside of your company or organization.</dd>
+  <dd>“<i>Distribute</i>” means providing a copy of the Package or making it accessible to anyone else, or in the case of a company or organization, to others outside of your company or organization.</dd>
 
   <dt><h4>Distributor Fee</h4></dt>
   <dd>
-    “<em>Distributor Fee</em>” means any fee that you charge for Distributing this Package or providing support for this Package to another party.
+    “<i>Distributor Fee</i>” means any fee that you charge for Distributing this Package or providing support for this Package to another party.
     It does <em>not</em> mean licensing fees.
   </dd>
 
   <dt><h4>Standard Version</h4></dt>
-  <dd>“<em>Standard Version</em>” refers to the Package if it has not been modified, or has been modified only in ways explicitly requested by the Copyright Holder.</dd>
+  <dd>“<i>Standard Version</i>” refers to the Package if it has not been modified, or has been modified only in ways explicitly requested by the Copyright Holder.</dd>
 
   <dt><h4>Modified Version</h4></dt>
-  <dd>“<em>Modified Version</em>” means the Package, if it has been changed, and such changes were not explicitly requested by the Copyright Holder.</dd>
+  <dd>“<i>Modified Version</i>” means the Package, if it has been changed, and such changes were not explicitly requested by the Copyright Holder.</dd>
 
   <dt><h4>Original License</h4></dt>
-  <dd>“<em>Original License</em>” means this Artistic License as Distributed with the Standard Version of the Package, in its current version or as it may be modified by The Perl Foundation in the future.</dd>
+  <dd>“<i>Original License</i>” means this Artistic License as Distributed with the Standard Version of the Package, in its current version or as it may be modified by The Perl Foundation in the future.</dd>
 
   <dt><h4>Source</h4></dt>
-  <dd>“<em>Source</em>” form means the source code, documentation source, and configuration files for the Package.</dd>
+  <dd>“<i>Source</i>” form means the source code, documentation source, and configuration files for the Package.</dd>
 
   <dt><h4>Compiled</h4></dt>
-  <dd>“<em>Compiled</em>” form means the compiled bytecode, object code, binary, or any other form resulting from mechanical transformation or translation of the Source form.</dd>
+  <dd>“<i>Compiled</i>” form means the compiled bytecode, object code, binary, or any other form resulting from mechanical transformation or translation of the Source form.</dd>
 </dl>
 
 ### Permission for Use and Modification Without Distribution
@@ -120,5 +120,5 @@ If the terms of this license do not permit the full use that you propose to make
 
 > [!IMPORTANT]
 > <ol start="14">
->   <li><h4>Disclaimer of Warranty</h4><p><strong>THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS “<em>AS IS</em>” AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL LAW.</strong></p><p><strong>UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</strong></p></li>
+>   <li><h4>Disclaimer of Warranty</h4><p><b>THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS “<i>AS IS</i>” AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL LAW.</b></p><p><b>UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</b></p></li>
 > </ol>

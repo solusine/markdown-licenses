@@ -49,10 +49,10 @@ For the purpose of this Agreement, when the following expressions commence with 
   <dd>means this license agreement, and its possible subsequent versions and annexes.</dd>
 
   <dt><h4>Software</h4></dt>
-  <dd>means the software in its Object Code and/or Source Code form and, where applicable, its documentation, “<em>as is</em>” when the Licensee accepts the Agreement.</dd>
+  <dd>means the software in its Object Code and/or Source Code form and, where applicable, its documentation, “<i>as is</i>” when the Licensee accepts the Agreement.</dd>
 
   <dt><h4>Initial Software</h4></dt>
-  <dd>means the Software in its Source Code and possibly its Object Code form and, where applicable, its documentation, “<em>as is</em>” when it is first distributed under the terms and conditions of the Agreement.</dd>
+  <dd>means the Software in its Source Code and possibly its Object Code form and, where applicable, its documentation, “<i>as is</i>” when it is first distributed under the terms and conditions of the Agreement.</dd>
 
   <dt><h4>Modified Software</h4></dt>
   <dd>means the Software modified by at least one Contribution.</dd>

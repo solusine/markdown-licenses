@@ -13,17 +13,17 @@
 
 <dl>
   <dt><h4>License</h4></dt>
-  <dd>“<em>License</em>” shall mean the terms and conditions for use, reproduction, and distribution as defined by <a href="#1-definitions">Sections 1</a> through <a href="#9-accepting-warranty-or-additional-liability">9</a> of this document.</dd>
+  <dd>“<i>License</i>” shall mean the terms and conditions for use, reproduction, and distribution as defined by <a href="#1-definitions">Sections 1</a> through <a href="#9-accepting-warranty-or-additional-liability">9</a> of this document.</dd>
 
   <dt><h4>Licensor</h4></dt>
-  <dd>“<em>Licensor</em>” shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.</dd>
+  <dd>“<i>Licensor</i>” shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.</dd>
 
   <dt><h4>Legal Entity</h4></dt>
   <dd>
-    <p>“<em>Legal Entity</em>” shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity.</p>
+    <p>“<i>Legal Entity</i>” shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity.</p>
 
 > [!NOTE]
-> For the purposes of this definition, “<em>control</em>” means:
+> For the purposes of this definition, “<i>control</i>” means:
 > <ol type="i">
 >   <li>the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or</li>
 >   <li>ownership of fifty percent (50%) or more of the outstanding shares, or</li>
@@ -33,20 +33,20 @@
   </dd>
 
   <dt><h4>You</h4></dt>
-  <dd>“<em>You</em>” (or “<em>Your</em>”) shall mean an individual or Legal Entity exercising permissions granted by this License.</dd>
+  <dd>“<i>You</i>” (or “<i>Your</i>”) shall mean an individual or Legal Entity exercising permissions granted by this License.</dd>
 
   <dt><h4>Source</h4></dt>
-  <dd>“<em>Source</em>” form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.</dd>
+  <dd>“<i>Source</i>” form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.</dd>
 
   <dt><h4>Object</h4></dt>
-  <dd>“<em>Object</em>” form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.</dd>
+  <dd>“<i>Object</i>” form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.</dd>
 
   <dt><h4>Work</h4></dt>
-  <dd>“<em>Work</em>” shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the <a href="#how-to-apply-the-apache-license-to-your-work">Appendix</a> below).</dd>
+  <dd>“<i>Work</i>” shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the <a href="#how-to-apply-the-apache-license-to-your-work">Appendix</a> below).</dd>
 
   <dt><h4>Derivative Works</h4></dt>
   <dd>
-    <p>“<em>Derivative Works</em>” shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.</p>
+    <p>“<i>Derivative Works</i>” shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.</p>
 
 > [!NOTE]    
 > For the purposes of this License, Derivative Works shall <em>not</em> include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
@@ -55,15 +55,15 @@
 
   <dt><h4>Contribution</h4></dt>
   <dd>
-    <p>“<em>Contribution</em>” shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner.</p>
+    <p>“<i>Contribution</i>” shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner.</p>
 
 > [!NOTE]
-> For the purposes of this definition, “<em>submitted</em>” means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as “<em>Not a Contribution.</em>”
+> For the purposes of this definition, “<i>submitted</i>” means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as “<i>Not a Contribution.</i>”
     
   </dd>
 
   <dt><h4>Contributor</h4></dt>
-  <dd>“<em>Contributor</em>” shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.</dd>
+  <dd>“<i>Contributor</i>” shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.</dd>
 </dl>
 
 ### 2. Grant of Copyright License
@@ -86,7 +86,7 @@ You may reproduce and distribute copies of the Work or Derivative Works thereof 
   <li><p>You must cause any modified files to carry prominent notices stating that You changed the files; and</p></li>
   <li><p>You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and</p></li>
   <li>
-    <p>If the Work includes a “<em>NOTICE</em>” text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places:</p>
+    <p>If the Work includes a “<i>NOTICE</i>” text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places:</p>
     <ul>
       <li>within a NOTICE text file distributed as part of the Derivative Works;</li>
       <li>within the Source form or documentation, if provided along with the Derivative Works; or,</li>

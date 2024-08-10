@@ -48,42 +48,42 @@ The precise terms and conditions for copying, distribution and modification foll
 
 <dl>
   <dt><h4>This License</h4></dt>
-  <dd>“<em>This License</em>” refers to version 3 of the GNU Affero General Public License.</dd>
+  <dd>“<i>This License</i>” refers to version 3 of the GNU Affero General Public License.</dd>
   
   <dt><h4>Copyright</h4></dt>
-  <dd>“<em>Copyright</em>” also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.</dd>
+  <dd>“<i>Copyright</i>” also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.</dd>
   
   <dt><h4>The Program</h4></dt>
   <dd>
-    “<em>The Program</em>” refers to any copyrightable work licensed under this License.
-    Each licensee is addressed as “<em>you</em>”.
-    “<em>Licensees</em>” and “<em>recipients</em>” may be individuals or organizations.
+    “<i>The Program</i>” refers to any copyrightable work licensed under this License.
+    Each licensee is addressed as “<i>you</i>”.
+    “<i>Licensees</i>” and “<i>recipients</i>” may be individuals or organizations.
   </dd>
 
   <dt><h4>Modify</h4></dt>
   <dd>
-    To “<em>modify</em>” a work means to copy from or adapt all or part of the work in a fashion requiring copyright permission, other than the making of an exact copy.
-    The resulting work is called a “<em>modified version</em>” of the earlier work or a work “<em>based on</em>” the earlier work.
+    To “<i>modify</i>” a work means to copy from or adapt all or part of the work in a fashion requiring copyright permission, other than the making of an exact copy.
+    The resulting work is called a “<i>modified version</i>” of the earlier work or a work “<i>based on</i>” the earlier work.
   </dd>
 
   <dt><h4>Covered Work</h4></dt>
-  <dd>A “<em>covered work</em>” means either the unmodified Program or a work based on the Program.</dd>
+  <dd>A “<i>covered work</i>” means either the unmodified Program or a work based on the Program.</dd>
   
   <dt><h4>Propagate</h4></dt>
   <dd>
-    To “<em>propagate</em>” a work means to do anything with it that, without permission, would make you directly or secondarily liable for infringement under applicable copyright law, except executing it on a computer or modifying a private copy.
+    To “<i>propagate</i>” a work means to do anything with it that, without permission, would make you directly or secondarily liable for infringement under applicable copyright law, except executing it on a computer or modifying a private copy.
     Propagation includes copying, distribution (with or without modification), making available to the public, and in some countries other activities as well.
   </dd>
 
   <dt><h4>Convey</h4></dt>
   <dd>
-    To “<em>convey</em>” a work means any kind of propagation that enables other parties to make or receive copies.
+    To “<i>convey</i>” a work means any kind of propagation that enables other parties to make or receive copies.
     Mere interaction with a user through a computer network, with no transfer of a copy, is not conveying.
   </dd>
 
   <dt><h4>Appropriate Legal Notices</h4></dt>
   <dd>
-    <p>An interactive user interface displays “<em>Appropriate Legal Notices</em>” to the extent that it includes a convenient and prominently visible feature that:</p>
+    <p>An interactive user interface displays “<i>Appropriate Legal Notices</i>” to the extent that it includes a convenient and prominently visible feature that:</p>
     <ol>
       <li>displays an appropriate copyright notice, and</li>
       <li>tells the user that there is no warranty for the work (except to the extent that warranties are provided), that licensees may convey the work under this License, and how to view a copy of this License.</li>
@@ -97,30 +97,30 @@ The precise terms and conditions for copying, distribution and modification foll
 <dl>
   <dt><h4>Source Code</h4></dt>
   <dd>
-    The “<em>source code</em>” for a work means the preferred form of the work for making modifications to it.
-    “<em>Object code</em>” means any non-source form of a work.
+    The “<i>source code</i>” for a work means the preferred form of the work for making modifications to it.
+    “<i>Object code</i>” means any non-source form of a work.
   </dd>
 
   <dt><h4>Standard Interface</h4></dt>
-  <dd>A “<em>Standard Interface</em>” means an interface that either is an official standard defined by a recognized standards body, or, in the case of interfaces specified for a particular programming language, one that is widely used among developers working in that language.</dd>
+  <dd>A “<i>Standard Interface</i>” means an interface that either is an official standard defined by a recognized standards body, or, in the case of interfaces specified for a particular programming language, one that is widely used among developers working in that language.</dd>
 
   <dt><h4>System Libraries</h4></dt>
   <dd>
-    <p>The “<em>System Libraries</em>” of an executable work include anything, other than the work as a whole, that:</p>
+    <p>The “<i>System Libraries</i>” of an executable work include anything, other than the work as a whole, that:</p>
     <ol type="a">
       <li>is included in the normal form of packaging a Major Component, but which is <em>not</em> part of that Major Component, and</li>
       <li>serves only to enable use of the work with that Major Component, or to implement a Standard Interface for which an implementation is available to the public in source code form.</li>
     </ol>
 
 > [!NOTE]
-> A “<em>Major Component</em>”, in this context, means a major essential component (kernel, window system, and so on) of the specific operating system (if any) on which the executable work runs, or a compiler used to produce the work, or an object code interpreter used to run it.
+> A “<i>Major Component</i>”, in this context, means a major essential component (kernel, window system, and so on) of the specific operating system (if any) on which the executable work runs, or a compiler used to produce the work, or an object code interpreter used to run it.
     
   </dd>
 
   <dt><h4>Corresponding Source</h4></dt>
   <dd>
     <p>
-      The “<em>Corresponding Source</em>” for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities.
+      The “<i>Corresponding Source</i>” for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities.
       However, it does <em>not</em> include the work’s System Libraries, or general-purpose tools or generally available free programs which are used unmodified in performing those activities but which are not part of the work.
     </p>
     <p>For example, Corresponding Source includes interface definition files associated with source files for the work, and the source code for shared libraries and dynamically linked subprograms that the work is specifically designed to require, such as by intimate data communication or control flow between those subprograms and other parts of the work.</p>
@@ -173,7 +173,7 @@ You may convey a work based on the Program, or the modifications to produce it f
   <li>
     <p>
       The work must carry prominent notices stating that it is released under this License and any conditions added under <a href="#7-additional-terms">section 7</a>.
-      This requirement modifies the requirement in <a href="#4-conveying-verbatim-copies">section 4</a> to “<em>keep intact all notices</em>”.
+      This requirement modifies the requirement in <a href="#4-conveying-verbatim-copies">section 4</a> to “<i>keep intact all notices</i>”.
     </p>
   </li>
   <li>
@@ -194,7 +194,7 @@ You may convey a work based on the Program, or the modifications to produce it f
 <dl>
   <dt><h4>Aggregate</h4></dt>
   <dd>
-    <p>A compilation of a covered work with other separate and independent works, which are not by their nature extensions of the covered work, and which are not combined with it such as to form a larger program, in or on a volume of a storage or distribution medium, is called an “<em>aggregate</em>” if the compilation and its resulting copyright are not used to limit the access or legal rights of the compilation’s users beyond what the individual works permit.</p>
+    <p>A compilation of a covered work with other separate and independent works, which are not by their nature extensions of the covered work, and which are not combined with it such as to form a larger program, in or on a volume of a storage or distribution medium, is called an “<i>aggregate</i>” if the compilation and its resulting copyright are not used to limit the access or legal rights of the compilation’s users beyond what the individual works permit.</p>
 
 > [!NOTE]
 > Inclusion of a covered work in an aggregate does _not_ cause this License to apply to the other parts of the aggregate.
@@ -236,14 +236,14 @@ A separable portion of the object code, whose source code is excluded from the C
 <dl>
   <dt><h4>User Product</h4></dt>
   <dd>
-    <p>A “<em>User Product</em>” is either:</p>
+    <p>A “<i>User Product</i>” is either:</p>
     <ol>
-      <li>a “<em>consumer product</em>”, which means any tangible personal property which is normally used for personal, family, or household purposes, or</li>
+      <li>a “<i>consumer product</i>”, which means any tangible personal property which is normally used for personal, family, or household purposes, or</li>
       <li>anything designed or sold for incorporation into a dwelling.</li>
     </ol>
     <p>
       In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage.
-      For a particular product received by a particular user, “<em>normally used</em>” refers to a typical or common use of that class of product, regardless of the status of the particular user or of the way in which the particular user actually uses, or expects or is expected to use, the product.
+      For a particular product received by a particular user, “<i>normally used</i>” refers to a typical or common use of that class of product, regardless of the status of the particular user or of the way in which the particular user actually uses, or expects or is expected to use, the product.
     </p>
 
 > [!NOTE]
@@ -253,7 +253,7 @@ A separable portion of the object code, whose source code is excluded from the C
 
   <dt><h4>Installation Information</h4></dt>
   <dd>
-    <p>“<em>Installation Information</em>” for a User Product means any methods, procedures, authorization keys, or other information required to install and execute modified versions of a covered work in that User Product from a modified version of its Corresponding Source.</p>
+    <p>“<i>Installation Information</i>” for a User Product means any methods, procedures, authorization keys, or other information required to install and execute modified versions of a covered work in that User Product from a modified version of its Corresponding Source.</p>
     <p>The information must suffice to ensure that the continued functioning of the modified object code is in no case prevented or interfered with solely because modification has been made.</p>
   </dd>
 </dl>
@@ -271,7 +271,7 @@ Access to a network may be denied when the modification itself materially and ad
 
 <dl>
   <dt><h4>Additional Permissions</h4></dt>
-  <dd>“<em>Additional permissions</em>” are terms that supplement the terms of this License by making exceptions from one or more of its conditions.</dd>
+  <dd>“<i>Additional permissions</i>” are terms that supplement the terms of this License by making exceptions from one or more of its conditions.</dd>
 </dl>
 
 Additional permissions that are applicable to the entire Program shall be treated as though they were included in this License, to the extent that they are valid under applicable law.
@@ -294,7 +294,7 @@ Notwithstanding any other provision of this License, for material you add to a c
 
 <dl>
   <dt><h4>Further Restrictions</h4></dt>
-  <dd>All other non-permissive additional terms are considered “<em>further restrictions</em>” within the meaning of <a href="#10-automatic-licensing-of-downstream-recipients">section 10</a>.</dd>
+  <dd>All other non-permissive additional terms are considered “<i>further restrictions</i>” within the meaning of <a href="#10-automatic-licensing-of-downstream-recipients">section 10</a>.</dd>
 </dl>
 
 If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is a further restriction, you may remove that term.
@@ -345,7 +345,7 @@ You are _not_ responsible for enforcing compliance by third parties with this Li
 
 <dl>
   <dt><h4>Entity Transaction</h4></dt>
-  <dd>An “<em>entity transaction</em>” is a transaction transferring control of an organization, or substantially all assets of one, or subdividing an organization, or merging organizations.</dd>
+  <dd>An “<i>entity transaction</i>” is a transaction transferring control of an organization, or substantially all assets of one, or subdividing an organization, or merging organizations.</dd>
 </dl>
 
 If propagation of a covered work results from an entity transaction, each party to that transaction who receives a copy of the work also receives whatever licenses to the work the party’s predecessor in interest had or could give under the previous paragraph, plus a right to possession of the Corresponding Source of the work from the predecessor in interest, if the predecessor has it or can get it with reasonable efforts.
@@ -361,15 +361,15 @@ If propagation of a covered work results from an entity transaction, each party 
 <dt>
   <h4>Contributor</h4></dt>
   <dd>
-    A “<em>contributor</em>” is a copyright holder who authorizes use under this License of the Program or a work on which the Program is based.
-    The work thus licensed is called the contributor’s “<em>contributor version</em>”.
+    A “<i>contributor</i>” is a copyright holder who authorizes use under this License of the Program or a work on which the Program is based.
+    The work thus licensed is called the contributor’s “<i>contributor version</i>”.
   </dd>
   <dt><h4>Essential Patent Claims</h4></dt>
   <dd>
-    <p>A contributor’s “<em>essential patent claims</em>” are all patent claims owned or controlled by the contributor, whether already acquired or hereafter acquired, that would be infringed by some manner, permitted by this License, of making, using, or selling its contributor version, but do <em>not</em> include claims that would be infringed only as a consequence of further modification of the contributor version.</p>
+    <p>A contributor’s “<i>essential patent claims</i>” are all patent claims owned or controlled by the contributor, whether already acquired or hereafter acquired, that would be infringed by some manner, permitted by this License, of making, using, or selling its contributor version, but do <em>not</em> include claims that would be infringed only as a consequence of further modification of the contributor version.</p>
 
 > [!NOTE]
-> For purposes of this definition, “<em>control</em>” includes the right to grant patent sublicenses in a manner consistent with the requirements of this License.
+> For purposes of this definition, “<i>control</i>” includes the right to grant patent sublicenses in a manner consistent with the requirements of this License.
 
   </dd>
 </dl>
@@ -379,8 +379,8 @@ Each contributor grants you a non-exclusive, worldwide, royalty-free patent lice
 <dl>
   <dt><h4>Patent License</h4></dt>
   <dd>
-    <p>In the following three paragraphs, a “<em>patent license</em>” is any express agreement or commitment, however denominated, <em>not</em> to enforce a patent (such as an express permission to practice a patent or covenant not to sue for patent infringement).</p>
-    <p>To “<em>grant</em>” such a patent license to a party means to make such an agreement or commitment not to enforce a patent against the party.</p>
+    <p>In the following three paragraphs, a “<i>patent license</i>” is any express agreement or commitment, however denominated, <em>not</em> to enforce a patent (such as an express permission to practice a patent or covenant not to sue for patent infringement).</p>
+    <p>To “<i>grant</i>” such a patent license to a party means to make such an agreement or commitment not to enforce a patent against the party.</p>
   </dd>
 </dl>
 
