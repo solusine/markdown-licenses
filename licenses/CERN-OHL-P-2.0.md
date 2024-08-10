@@ -1,7 +1,7 @@
 i><!-- SPDX-License-Identifier: CERN-OHL-P-2.0 -->
 
 # CERN Open Hardware Licence
-###### Version 2 - Permissive
+###### Version 2 — Permissive
 
 ### Preamble
 
@@ -10,7 +10,7 @@ Version 2 of the CERN Open Hardware Licence comes in three variants: this licenc
 
 The `CERN-OHL-P` is copyright CERN 2020. Anyone is welcome to use it, in unmodified form only.
 
-Use of this Licence does not imply any endorsement by CERN of any Licensor or their designs nor does it imply any involvement by CERN in their development.
+Use of this Licence does _not_ imply any endorsement by CERN of any Licensor or their designs nor does it imply any involvement by CERN in their development.
 
 ### 1. Definitions
 
@@ -139,7 +139,7 @@ If any provisions of this Licence are or subsequently become invalid or unenforc
 
 You shall _not_ use any of the name (including acronyms and abbreviations), image, or logo by which the Licensor or CERN is known, except where needed to comply with [section 3](#3-copying-modifying-and-conveying-covered-source), or where the use is otherwise allowed by law.
       
-Any such permitted use shall be factual and shall not be made so as to suggest any kind of endorsement or implication of involvement by the Licensor or its personnel.
+Any such permitted use shall be factual and shall _not_ be made so as to suggest any kind of endorsement or implication of involvement by the Licensor or its personnel.
 
 #### 7.3
 
