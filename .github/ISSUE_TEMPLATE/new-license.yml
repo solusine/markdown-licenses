@@ -1,14 +1,14 @@
 name: Suggest A License
 description: Suggest a new open-source license to be added to the collection.
 title: "[REQUEST]: "
-labels: ["license proposal"]
+labels: ["license suggestion"]
 assignees:
   - solusine
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to help make this project even better! Make sure to include the name of your proposed license in the title.
+        Thanks for taking the time to help make this project even better! Make sure to include the name of your requested license in the title.
   - type: input
     id: spdx
     attributes:
@@ -21,10 +21,11 @@ body:
     id: osi
     attributes:
       label: Open Source?
-      description: Is your proposed license [OSI approved](https://opensource.org/licenses)?
+      description: Is your requested license [OSI approved](https://opensource.org/licenses)? Non-OSI licenses will not be approved at this time.
       options:
         - "Yes"
         - "No"
+      default: 1
     validations:
       required: true
   - type: textarea
@@ -32,14 +33,14 @@ body:
     attributes:
       label: Additional Info (optional)
       description: Do you have any relevant or additional info you'd like to provide?
-      placeholder: You can include things like a source website or a reason for wanting to add this license.
+      placeholder: You can include things like the license steward's website, alternative variants or different versions, related licenses (if part of a license family), etc.
     validations:
       required: false
   - type: checkboxes
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this license proposal, you agree to follow our [Code of Conduct](https://github.com/solusine/markdown-licenses/tree/main/.github/CODE_OF_CONDUCT.md)
+      description: By submitting this license request, you agree to follow our [Code of Conduct](https://github.com/solusine/markdown-licenses/tree/main/.github/CODE_OF_CONDUCT.md)
       options:
         - label: I agree to follow the Code of Conduct
           required: true
