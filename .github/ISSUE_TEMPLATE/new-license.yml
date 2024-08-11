@@ -37,8 +37,8 @@ body:
         - "Yes"
         - "No"
       default: 1
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: additional
     attributes:
