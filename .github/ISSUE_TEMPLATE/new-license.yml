@@ -20,14 +20,25 @@ body:
   - type: dropdown
     id: osi
     attributes:
-      label: Open Source?
-      description: Is your requested license [OSI approved](https://opensource.org/licenses)? Non-OSI licenses will not be approved at this time.
+      label: OSI Approved?
+      description: Is your requested license [OSI approved](https://opensource.org/licenses)?
       options:
         - "Yes"
         - "No"
       default: 1
     validations:
       required: true
+  - type: dropdown
+    id: free
+    attributes:
+      label: Free and/or Copyleft?
+      description: Is your requested license [free](https://gnu.org/licenses/license-list)?
+      options:
+        - "Yes"
+        - "No"
+      default: 1
+      validations:
+        required: true
   - type: textarea
     id: additional
     attributes:
