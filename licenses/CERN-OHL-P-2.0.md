@@ -1,4 +1,4 @@
-i><!-- SPDX-License-Identifier: CERN-OHL-P-2.0 -->
+<!-- SPDX-License-Identifier: CERN-OHL-P-2.0 -->
 
 # CERN Open Hardware Licence
 ###### Version 2 — Permissive
