@@ -6,7 +6,7 @@
 
 <h6>
   <p>This Academic Free License (the “<i>License</i>”) applies to any original work of authorship (the “<i>Original Work</i>”) whose owner (the “<i>Licensor</i>”) has placed the following licensing notice adjacent to the copyright notice for the Original Work:</p>
-  
+
   ```
   Licensed under the Academic Free License version 3.0
   ```
@@ -70,7 +70,7 @@ You must cause the Source Code for any Derivative Works that You create to carry
 
 > [!CAUTION]
 > Under no circumstances and under no legal theory, whether in tort (including negligence), contract, or otherwise, shall the Licensor be liable to anyone for any indirect, special, incidental, or consequential damages of any character arising as a result of this License or the use of the Original Work including, without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses.
-> 
+>
 > This limitation of liability shall _not_ apply to the extent applicable law prohibits such limitation.
 
 ### 9. Acceptance and Termination
@@ -89,7 +89,7 @@ Nothing in this License is intended to affect copyright exceptions and limitatio
 
 > [!WARNING]
 > This License shall terminate automatically and You may no longer exercise any of the rights granted to You by this License as of the date You commence an action, including a cross-claim or counterclaim, against Licensor or any licensee alleging that the Original Work infringes a patent.
-> 
+>
 > This termination provision shall _not_ apply for an action alleging patent infringement by combinations of the Original Work with other software or hardware.
 
 ### 11. Jurisdiction, Venue and Governing Law

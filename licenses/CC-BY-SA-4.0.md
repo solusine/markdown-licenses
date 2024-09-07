@@ -17,27 +17,27 @@ The following considerations are for informational purposes only, are not exhaus
 
 > [!IMPORTANT]
 > <h4>Considerations for Licensors</h4>
-> 
+>
 > Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights.
 > Our licenses are irrevocable.
 > Licensors should read and understand the terms and conditions of the license they choose before applying it.
 > Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected.
 > Licensors should clearly mark any material not subject to the license.
 > This includes other CC-licensed material, or material used under an exception or limitation to copyright.
-> 
+>
 > More considerations for licensors: [wiki.creativecommons.org/Considerations_for_licensors](https://wiki.creativecommons.org/Considerations_for_licensors)
-> 
+>
 > ---
-> 
+>
 > <h4>Considerations for the Public</h4>
-> 
+>
 > By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions.
 > If the licensor's permission is not necessary for any reason—for example, because of any applicable exception or limitation to copyright—then that use is not regulated by the license.
 > Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant.
 > Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material.
 > A licensor may make special requests, such as asking that all changes be marked or described.
 > Although not required by our licenses, you are encouraged to respect those requests where reasonable.
-> 
+>
 > More considerations for the public: [wiki.creativecommons.org/Considerations_for_licensees](https://wiki.creativecommons.org/Considerations_for_licensees)
 
 # Creative Commons Attribution-ShareAlike 4.0 International Public License
@@ -135,7 +135,7 @@ To the extent this Public License may be interpreted as a contract, You are gran
         <h4>Media and Formats; Technical Modifications Allowed</h4>
         <p>
           The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so.
-          The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. 
+          The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures.
         </p>
         <p>For purposes of this Public License, simply making modifications authorized by this <a href="#media-and-formats-technical-modifications-allowed">Section 2(a)(4)</a> never produces Adapted Material.</p>
       </li>

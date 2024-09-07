@@ -131,7 +131,7 @@ Each time You accept the Licence, the original Licensor and subsequent Contribut
 > [!IMPORTANT]
 > The Work is a work in progress, which is continuously improved by numerous Contributors.
 > It is not a finished work and may therefore contain defects or ‘_bugs_’ inherent to this type of development.
-> 
+>
 > For the above reason, the Work is provided under the Licence on an ‘_as is_’ basis and without warranties of any kind concerning the Work, including without limitation merchantability, fitness for a particular purpose, absence of defects or errors, accuracy, non-infringement of intellectual property rights other than copyright as stated in [Article 6](#6-chain-of-authorship) of this Licence.
 >
 > This disclaimer of warranty is an essential part of the Licence and a condition for the grant of any rights to the Work.

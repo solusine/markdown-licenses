@@ -6,7 +6,7 @@
   Version 3, 19 November 2007<br>
   Copyright © 2007 Free Software Foundation, Inc. <a href="https://fsf.org/">fsf.org</a>
 </h6>
-  
+
 ###### Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 ## Preamble
@@ -37,7 +37,7 @@ Therefore, public use of a modified version, on a publicly accessible server, gi
 
 > [!NOTE]
 > An older license, called the Affero General Public License and published by Affero, was designed to accomplish similar goals.
-> 
+>
 > This is a different license, _not_ a version of the Affero GPL, but Affero has released a new version of the Affero GPL which permits relicensing under this license.
 
 The precise terms and conditions for copying, distribution and modification follow.
@@ -49,10 +49,10 @@ The precise terms and conditions for copying, distribution and modification foll
 <dl>
   <dt><h4>This License</h4></dt>
   <dd>“<i>This License</i>” refers to version 3 of the GNU Affero General Public License.</dd>
-  
+
   <dt><h4>Copyright</h4></dt>
   <dd>“<i>Copyright</i>” also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.</dd>
-  
+
   <dt><h4>The Program</h4></dt>
   <dd>
     “<i>The Program</i>” refers to any copyrightable work licensed under this License.
@@ -68,7 +68,7 @@ The precise terms and conditions for copying, distribution and modification foll
 
   <dt><h4>Covered Work</h4></dt>
   <dd>A “<i>covered work</i>” means either the unmodified Program or a work based on the Program.</dd>
-  
+
   <dt><h4>Propagate</h4></dt>
   <dd>
     To “<i>propagate</i>” a work means to do anything with it that, without permission, would make you directly or secondarily liable for infringement under applicable copyright law, except executing it on a computer or modifying a private copy.
@@ -114,7 +114,7 @@ The precise terms and conditions for copying, distribution and modification foll
 
 > [!NOTE]
 > A “<i>Major Component</i>”, in this context, means a major essential component (kernel, window system, and so on) of the specific operating system (if any) on which the executable work runs, or a compiler used to produce the work, or an object code interpreter used to run it.
-    
+
   </dd>
 
   <dt><h4>Corresponding Source</h4></dt>
@@ -248,7 +248,7 @@ A separable portion of the object code, whose source code is excluded from the C
 
 > [!NOTE]
 > A product is a consumer product regardless of whether the product has substantial commercial, industrial or non-consumer uses, unless such uses represent the only significant mode of use of the product.
-> 
+
   </dd>
 
   <dt><h4>Installation Information</h4></dt>
@@ -352,7 +352,7 @@ If propagation of a covered work results from an entity transaction, each party 
 
 > [!IMPORTANT]
 > You may _not_ impose any further restrictions on the exercise of the rights granted or affirmed under this License.
-> 
+>
 > For example, you may not impose a license fee, royalty, or other charge for exercise of rights granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit) alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Program or any portion of it.
 
 ### 11. Patents
@@ -442,7 +442,7 @@ If the Program specifies that a proxy can decide which future versions of the GN
 > [!IMPORTANT]
 > __THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
 > EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “_AS IS_” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.__
-> 
+>
 > __THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.
 > SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.__
 

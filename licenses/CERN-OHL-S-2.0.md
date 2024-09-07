@@ -77,9 +77,10 @@ Use of this Licence does _not_ imply any endorsement by CERN of any Licensor or 
   <dt><h4>1.12 “<i>Licensor</i>”</h4></dt>
   <dd>
     <p>means a natural or legal person who creates or modifies Covered Source.</p>
-    
+
   > [!NOTE]
   > A person may be a Licensee and a Licensor at the same time.
+
   </dd>
 
   <dt><h4>1.13 “<i>Convey</i>”</h4></dt>
@@ -189,7 +190,7 @@ CERN may publish updated versions and variants of this Licence which it consider
 
 If the Licensor has specified that a given variant applies to the Covered Source without specifying a version, You may treat that Covered Source as being released under any version of the `CERN-OHL` with that variant.
 If no variant is specified, the Covered Source shall be treated as being released under `CERN-OHL-S`.
-      
+
 The Licensor may also specify that the Covered Source is subject to a specific version of the `CERN-OHL` or any later version in which case You may apply this or any later version of `CERN-OHL` with the same variant identifier published by CERN.
 
 > [!WARNING]

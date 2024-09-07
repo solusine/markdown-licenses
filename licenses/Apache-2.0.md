@@ -48,9 +48,9 @@
   <dd>
     <p>“<i>Derivative Works</i>” shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.</p>
 
-> [!NOTE]    
+> [!NOTE]
 > For the purposes of this License, Derivative Works shall <em>not</em> include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
-    
+
   </dd>
 
   <dt><h4>Contribution</h4></dt>
@@ -59,7 +59,7 @@
 
 > [!NOTE]
 > For the purposes of this definition, “<i>submitted</i>” means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as “<i>Not a Contribution.</i>”
-    
+
   </dd>
 
   <dt><h4>Contributor</h4></dt>

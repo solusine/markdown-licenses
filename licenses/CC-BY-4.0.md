@@ -17,20 +17,20 @@ The following considerations are for informational purposes only, are not exhaus
 
 > [!IMPORTANT]
 > <h4>Considerations for Licensors</h4>
-> 
+>
 > Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights.
 > Our licenses are irrevocable.
 > Licensors should read and understand the terms and conditions of the license they choose before applying it.
 > Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected.
 > Licensors should clearly mark any material not subject to the license.
 > This includes other CC-licensed material, or material used under an exception or limitation to copyright.
-> 
+>
 > More considerations for licensors: [wiki.creativecommons.org/Considerations_for_licensors](https://wiki.creativecommons.org/Considerations_for_licensors)
-> 
+>
 > ---
-> 
+>
 > <h4>Considerations for the Public</h4>
-> 
+>
 > By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions.
 > If the licensor’s permission is not necessary for any reason—for example, because of any applicable exception or limitation to copyright—then that use is _not_ regulated by the license.
 > Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant.
