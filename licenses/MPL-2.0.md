@@ -66,7 +66,7 @@
 
 > [!NOTE]
 > For purposes of this definition, “<i>control</i>” means
-> 
+>
 > <ol type="a">
 >   <li>the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or </li>
 >   <li>ownership of more than fifty percent (50%) of the outstanding shares or beneficial ownership of such entity.</li>
@@ -100,12 +100,12 @@ Notwithstanding [Section 2.1(b)](#21-grants) above, no patent license is granted
   <li><p>for any code that a Contributor has removed from Covered Software; or</p></li>
   <li>
     <p>for infringements caused by:</p>
-    
+
   <ol type="i">
     <li>Your and any other third party's modifications of Covered Software, or</li>
     <li>the combination of its Contributions with other software (except as part of its Contributor Version); or</li>
   </ol>
-  
+
   </li>
   <li><p>under Patent Claims infringed by Covered Software in the absence of its Contributions.</p></li>
 </ol>

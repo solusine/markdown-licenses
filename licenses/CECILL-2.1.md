@@ -245,7 +245,7 @@ Said warranty, and the financial terms and conditions of its application, shall 
 >
 > #### 8.2
 > The Licensor's liability is limited to the commitments made under this Agreement and shall _not_ be incurred as a result of in particular:
-> 
+>
 > <ol type="i">
 >   <li>loss due the Licensee's total or partial failure to fulfill its obligations,</li>
 >   <li>direct or consequential loss that is suffered by the Licensee due to the use or performance of the Software, and</li>
@@ -259,7 +259,7 @@ Said warranty, and the financial terms and conditions of its application, shall 
 > [!IMPORTANT]
 > #### 9.1
 > The Licensee acknowledges that the scientific and technical state-of-the-art when the Software was distributed did not enable all possible uses to be tested and verified, nor for the presence of possible defects to be detected.
-> 
+>
 > In this respect, the Licensee's attention has been drawn to the risks associated with loading, using, modifying and/or developing and reproducing the Software which are reserved for experienced users.
 >
 > The Licensee shall be responsible for verifying, by any or all means, the suitability of the product for its requirements, its good working order, and for ensuring that it shall not cause damage to either persons or properties.

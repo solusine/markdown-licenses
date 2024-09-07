@@ -42,9 +42,10 @@ Use of this Licence does _not_ imply any endorsement by CERN of any Licensor or 
   <dt><h4>1.8 “<i>Licensor</i>”</h4></dt>
   <dd>
     <p>means a person who creates Source or modifies Covered Source and subsequently Conveys the resulting Covered Source under the terms and conditions of this Licence.</p>
-    
+
   > [!NOTE]
   > A person may be a Licensee and a Licensor at the same time.
+
   </dd>
 
   <dt><h4>1.9 “<i>Convey</i>”</h4></dt>
@@ -138,7 +139,7 @@ If any provisions of this Licence are or subsequently become invalid or unenforc
 #### 7.2
 
 You shall _not_ use any of the name (including acronyms and abbreviations), image, or logo by which the Licensor or CERN is known, except where needed to comply with [section 3](#3-copying-modifying-and-conveying-covered-source), or where the use is otherwise allowed by law.
-      
+
 Any such permitted use shall be factual and shall _not_ be made so as to suggest any kind of endorsement or implication of involvement by the Licensor or its personnel.
 
 #### 7.3

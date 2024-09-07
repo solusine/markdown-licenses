@@ -26,9 +26,10 @@
     </ol>
     <p>where such changes and/or additions to the Program originate from and are Distributed by that particular Contributor.</p>
     <p>A Contribution “<i>originates</i>” from a Contributor if it was added to the Program by such Contributor itself or anyone acting on such Contributor's behalf.</p>
-    
+
   > [!NOTE]
   > Contributions do _not_ include changes or additions to the Program that are not Modified Works.
+
   </dd>
 
   <dt><h4>“<i>Contributor</i>”</h4></dt>
@@ -49,9 +50,10 @@
   <dt><h4>“<i>Modified Works</i>”</h4></dt>
   <dd>
     <p>shall mean any work in Source Code or other form that results from an addition to, deletion from, or modification of the contents of the Program, including, for purposes of clarity any new file in Source Code form that contains any contents of the Program.</p>
-  
+
   > [!NOTE]
   > Modified Works shall <em>not</em> include works that contain only declarations, interfaces, types, classes, structures, or files of the Program solely in each case in order to link to, bind by name, or subclass the Program or Modified Works thereof.
+
   </dd>
 
   <dt><h4>“<i>Distribute</i>”</h4></dt>
@@ -196,7 +198,7 @@ The Program (including Contributions) may always be Distributed subject to the v
 
 > [!NOTE]
 > Except as expressly stated in [Sections 2(a)](#2-grant-of-rights) and [2(b)](#2-grant-of-rights) above, Recipient receives no rights or licenses to the intellectual property of any Contributor under this Agreement, whether expressly, by implication, estoppel or otherwise.
-> 
+>
 > All rights in the Program not expressly granted under this Agreement are reserved.
 > Nothing in this Agreement is intended to be enforceable by any entity that is not a Contributor or Recipient.
 > No third-party beneficiary rights are created under this Agreement.

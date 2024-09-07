@@ -86,9 +86,10 @@ Use of this Licence does _not_ imply any endorsement by CERN of any Licensor or 
   <dt><h4>1.13 “<i>Licensor</i>”</h4></dt>
   <dd>
     <p>means a natural or legal person who creates or modifies Covered Source.</p>
-    
+
   > [!NOTE]
   > A person may be a Licensee and a Licensor at the same time.
+
   </dd>
 
   <dt><h4>1.14 “<i>Convey</i>”</h4></dt>
@@ -147,7 +148,7 @@ You may Convey modified Covered Source (with the effect that You shall also beco
 
 You may Make Products, and/or Convey them, provided that You either provide each recipient with a copy of the Complete Source or ensure that each recipient is notified of the Source Location of the Complete Source.
 That Complete Source includes Covered Source and You must accordingly satisfy Your obligations set out in [subsection 3.3](#33).
-      
+
 > [!NOTE]
 > If specified in a Notice, the Product must visibly and securely display the Source Location on it or its packaging or documentation in the manner specified in that Notice.
 
@@ -199,17 +200,17 @@ If any provisions of this Licence are or subsequently become invalid or unenforc
 #### 8.2
 
 You shall _not_ use any of the name (including acronyms and abbreviations), image, or logo by which the Licensor or CERN is known, except where needed to comply with [section 3](#3-copying-modifying-and-conveying-covered-source), or where the use is otherwise allowed by law.
-      
+
 Any such permitted use shall be factual and shall _not_ be made so as to suggest any kind of endorsement or implication of involvement by the Licensor or its personnel.
 
 #### 8.3
 
 CERN may publish updated versions and variants of this Licence which it considers to be in the spirit of this version, but may differ in detail to address new problems or concerns.
 New versions will be published with a unique version number and a variant identifier specifying the variant.
-      
+
 If the Licensor has specified that a given variant applies to the Covered Source without specifying a version, You may treat that Covered Source as being released under any version of the `CERN-OHL` with that variant.
 If no variant is specified, the Covered Source shall be treated as being released under `CERN-OHL-S`.
-      
+
 The Licensor may also specify that the Covered Source is subject to a specific version of the `CERN-OHL` or any later version in which case You may apply this or any later version of `CERN-OHL` with the same variant identifier published by CERN.
 
 > [!NOTE]
